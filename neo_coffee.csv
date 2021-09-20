@@ -1,0 +1,751 @@
+,coffee_id,name,roaster,farmer,process,elevation,country_name,country_region,notes,varietals
+0,3,La Reserva Anaerobic (Colombia),Humphrey's Street,La Reserva,Anaerobic Natural,1800.0,Colombia,Americas,"strawberry,silky,creamy,fruit punch",Caturra
+1,4,Manos de Mujer,Retrograde,ACODIHUE,Washed,1500.0,Guatemala,Americas,"black cherry,red apple,chocolate",Cultivar
+2,5,Treehouse Blend,Elixr Coffee Roasters,Multiple,Washed,0.0,Blend,Blend,"caramel,cocoa,clementine",Heirlooms
+3,6,Precursor,Rebecca,,Washed,,Brazil,Americas,"cocoa powder,nutty,red berry",Arabica
+4,7,Drima Zede,Barista Parlor,Ninety Plus Coffee,Anaerobic Natural,1350.0,Panama,Americas,"strawberry,dark chocolate,oak",Heirlooms
+5,8,KAINAMUI AA,Crema,New Ngariama Cooperative,Washed,1650.0,Kenya,Africa,"grapefruit,dark chocolate,black currant","SL28,SL34,Ruiru 11"
+6,9,Ethiopia Haro Welabu,Sump Coffee,Kerchanshe Water Station,Anaerobic Natural,1950.0,Ethiopia,Africa,"strawberry,ripe fruit",Heirlooms
+7,10,Ibonia Estate,Steadfast Coffee,Ibonia Estate,Washed,1700.0,Kenya,Africa,"juicy,apricot,cherry,dark chocolate","SL34,SL28"
+8,11,Chelbesa Danche,Feast,,Washed,2050.0,Ethiopia,Africa,"honey,lemon,jasmine,blackberry,raw,floral,sugar,sweet,candy,watermelon",Heirlooms
+9,12,Ethiopia - Kochere,Airship,,Natural,1850.0,Ethiopia,Africa,"blueberry,floral,chocolate",Heirlooms
+10,13,Nano Genji,ReAnimator Coffee Roasters,Nano Genji,Washed,,Ethiopia,Africa,"nectarine,sweet tea,hard candy,ginger",Heirlooms
+11,14,Kiriga Estate Peaberry,Victrola,Brian Gakunga,Washed,1600.0,Kenya,Africa,"currant,concord grape,cane sugar","SL28,Ruiru 11 AA"
+12,15,Karatu AA,Bluebeard,Karatu Estate,Washed,1850.0,Tanzania,Africa,"apricot,lemon,floral,brown sugar",N39 (Bourbon AA)
+13,16,Las Palomas,Kuma,Multiple,Washed,1875.0,Guatemala,Americas,"mandarin orange,nectarine,marzipan","Bourbon,Caturra"
+14,17,Ethiopia Worka Chelbessa,Looking Homeward,Neguesse Debela,Washed,2100.0,Ethiopia,Africa,"lemonade,jasmine,watermelon,raspberry",Ethiopia Landraces
+15,101,Geisha,3 Monkeys,,,0.0,Peru,Americas,,
+16,102,,3 Monkeys,,,0.0,Peru,Americas,,
+17,103,Reserve Al Wudiyan,Al Mokha,,Natural,0.0,Yemen,Asia,,
+18,104,Whole Foods,Allegro,,,0.0,Blend,Blend,"sweet,smoky",
+19,105,Belen Gualcho,Alma Coffee,,Washed,1700.0,Honduras,Americas,"green apple,apple,balance,milk,grapefruit",Caturra
+20,106,Gotiti,Anchorhead,Mormora Farm,,2000.0,Ethiopia,Africa,"jasmine tea,lychee","Wolicho,Heirlooms,Kurume"
+21,107,Kiangoi,Anchorhead,,Washed,0.0,Kenya,Africa,"raspberry,nutmeg,honeydew,peach",SL28 Cultivar
+22,108,Leviathan,Anchorhead,,Natural,1900.0,Blend,Blend,"blackberry syrup,caramel,marshmallow,blueberry",
+23,109,Narwhal,Anchorhead,,Washed,1600.0,Blend,Blend,"cherry,nougat,milk chocolate","Bourbon,Typica,Caturra"
+24,110,Rwanda Dukunde Kawa,Anchorhead,Dukunde Kawa Cooperative,Washed,1750.0,Rwanda,Africa,"nutmeg,brown sugar,fig",Bourbon
+25,111,Ethiopia Uraga Guji,Anchorhead,Feku Jiberil,Washed,0.0,Ethiopia,Africa,"chocolate syrup,tangerine",
+26,112,Colombia La Pradera,Anodyne Coffee Roasters,Hector & Oscar Daza,Washed,1700.0,Colombia,Americas,"cherry,super,cola,soft","Castillo,Caturra,Colombia"
+27,113,Precursor,Armistice,,Washed,0.0,Blend,Blend,,
+28,114,Dominican Republic of Congo,Atlas Coffee Importers,,Washed,0.0,Congo,Africa,,
+29,115,Ethiopa,Atlas Coffee Importers,Shara Washing Station,Washed,0.0,Ethiopia,Africa,"blackberry,green tea,plum,pear,jasmine",Typica
+30,116,Fazenda Cachoeira,Atlas Coffee Importers,,Natural,0.0,Brazil,Americas,,
+31,117,Fazenda Samambaia,Atlas Coffee Importers,,Natural,0.0,Brazil,Americas,,
+32,118,Fazenda Samambaia,Atlas Coffee Importers,,Pulp Natural,0.0,Brazil,Americas,,
+33,119,Bali Kintamani,Atomic,,Natural,1300.0,Indonesia,Asia,"strawberry liquer,cantaloupe,complex","Typica,Bourbon"
+34,120,Decaf Brazil,Atomic,,EA Decaf,1000.0,Brazil,Americas,"bittersweet chocolate,honey,caramel","Novo Hybrid,Bourbon,Mundo Novo"
+35,121,Burundi Mutambu,Backporch Coffee Roasters,,Washed,6000.0,Burundi,Africa,"hibiscus,star fruit,black tea",Red Bourbon
+36,122,Chateau Belleville Blend,Belleville,,Natural,0.0,Blend,Blend,,Bourbon
+37,123,Ciudad Vieja,Belleville,,Washed,0.0,Guatemala,Americas,"roasted hazelnuts,cocoa,spice",Bourbon
+38,124,La Fontaine Blend,Belleville,,Washed,0.0,Blend,Blend,"caramel,chocolate",
+39,125,Matahara,Belleville,,Washed,0.0,Ethiopia,Africa,floral,
+40,126,Neptaly Bautista,Belleville,,Washed,0.0,Honduras,Americas,"granny apple,candied fruit,honey,exotic fruits,cane molasses",Pacas
+41,127,Halu Beriti,Bespoken,,Washed,2200.0,Ethiopia,Africa,"apricot,juicy,jasmine",Heirlooms
+42,128,Café Del Sol,Bird Rock,,Washed,1600.0,Kenya,Africa,"clementine,blackberry,dark honey","Bourbon,Heirlooms,Caturra"
+43,129,Reko,Bird Rock,,Washed,2050.0,Ethiopia,Africa,"apricot jam,lemon drop candy,jasmine",Heirlooms
+44,130,Love Berries,Black Sheep,,Natural,0.0,Ethiopia,Africa,apple,Arabica
+45,131,Robusta Revival,Black Sheep,,Pulp Natural,0.0,India,Asia,"dark chocolate,silky,hazelnut,smooth",Robusta
+46,132,Abera Ararso,Blanchard's Coffee Roasting Co.,,Washed,1750.0,Ethiopia,Africa,"nectarine,wildflower honey,meyer lemon","Dega,Kurume,Wolicho"
+47,133,Blanchard's Guatemala,Blanchard's Coffee Roasting Co.,Ruth Maria de Los Angeles Martinez,Washed,2000.0,Guatemala,Americas,"cola,poached pear,orange blossom",Orange Bourbon
+48,134,La Esperanza,Blue Bottle,,Washed,0.0,Guatemala,Americas,"candied kumquat,hazelnut,swiss chocolate",Caturra
+49,135,Rwanda Nyanza Iwacu,Blue Bottle,Iwacu Washing Station,Washed,1650.0,Rwanda,Africa,"lemongrass,candied mango,praline",Bourbon
+50,136,Sr. Edgardo Reyes,Bluebeard,Sr. Edgardo Reyes,Washed,1761.0,Honduras,Americas,"chocolate,milk,apple,grape jelly,honeycomb",Pacas
+51,137,Yukro,Bluebeard,Cooperative Kata Muduga,Washed,2000.0,Ethiopia,Africa,"butterscotch,lemon,white grape,mandarin orange","Arabica,Heirlooms"
+52,138,Kimel River,Bluebeard,Kimel River Estate,Washed,1500.0,Papua New Guinea,Oceania,"cocoa,nectarine,white grape,lemon blossom",Peaberry
+53,139,Ejo Heza,Blueprint Coffee,4th Harvest,Washed,1750.0,Rwanda,Africa,,"Jackson,Bourbon"
+54,140,Decaf Caldas E.A.,Blueprint Coffee,1st Harvest,EA Decaf,1500.0,Colombia,Americas,,"Colombia,Caturra,Castillo"
+55,141,Dur Feres,Boon Boona,Multiple,Natural,1800.0,Ethiopia,Africa,cacao nibs,"Kurume,Setami,Mikicho"
+56,142,Decaf Sidamo,Boon Boona,Multiple,Swiss Water Decaf,1850.0,Ethiopia,Africa,"citrus,nougat",Heirlooms
+57,143,Bourbon de Chiapas,Borola,,Washed,1200.0,Mexico,Americas,"cedar,nuts,floral,orange",Bourbon
+58,144,Enmielado de Guerrero,Borola,,Honey,0.0,Mexico,Americas,"mango,pineapple,light chocolate finish",Arabica
+59,145,Pacamara de Chiapas,Borola,,Washed,0.0,Mexico,Americas,"vanilla,toasted caramel,nuts,spice",Pacamara
+60,146,Pluma de Oaxaca,Borola,,Washed,1300.0,Mexico,Americas,"vanilla,chocolate,light body,dry finish,balance,caramel,oak",Typica Pluma
+61,147,Tupac Amaru,Bows x Arrows,,Washed,0.0,Peru,Americas,"butterscotch,macadamia nut,chocolate mousse","Typica,Caturra,Bourbon"
+62,148,Costa Rica,Brewed Awakenings,,Washed,0.0,Costa Rica,Americas,,Arabica
+63,149,Colombia Duarte Bajo,Broadcast,Duarte Bajo,Washed,0.0,Colombia,Americas,"fruity,bright",
+64,150,Colombia San Francisco,Broadcast,San Francisco,Washed,0.0,Colombia,Americas,lovely,
+65,151,Colombia Tosoabi,Broadcast,Tosoabi,Washed,0.0,Colombia,Americas,"orange,chocolate",
+66,152,Ethiopia Hambela,Broadcast,Hambela,Washed,2100.0,Ethiopia,Africa,"lemon,raspberry",Heirlooms
+67,153,Finca Un Regalo de Dios,Broadcast,,Washed,0.0,Nicaragua,Americas,"dried fruit,toffee",Pacamara
+68,154,Guatemala,Broadcast,,Washed,0.0,Guatemala,Americas,"lemonade,fig,apple","Catuai,Caturra"
+69,155,Guatemala La Folie,Broadcast,La Folie,Washed,0.0,Guatemala,Americas,"orange,pear",
+70,156,Honduras San Vicente,Broadcast,,Washed,1575.0,Honduras,Americas,"pear,raspberry,papaya","Catuai,Lempira,Pacas"
+71,157,Kenya Karatu PB,Broadcast,Karatu PB,Washed,0.0,Kenya,Africa,"blood orange,raspberry",
+72,158,Myanmar Horse Well,Broadcast,Horse Well,Washed,0.0,Myanmar,Asia,"orange,cognac",
+73,159,Wottona Bultuma,Broadcast,,Washed,0.0,Ethiopia,Africa,"bergamot,peach,honey",Heirlooms
+74,160,Raro Boda Natural,Broadsheet,Neguesse Debela,Natural,2100.0,Ethiopia,Africa,"toffee,blueberry,cherry","Heirlooms,Jarc Selections"
+75,161,Terra Sana Blend,Caffe Umbria,,Washed,0.0,Blend,Blend,,
+76,162,Holiday Blend,Caffe Vita,,Washed,0.0,Brazil,Americas,"roasted marshmallow,nougat,dark chocolate",
+77,163,Ethiopia Gogugu,Camber,,Washed,2140.0,Ethiopia,Africa,"pomelo,mango,jasmine",Heirlooms
+78,164,Goodnight Moon Decaf,Camber,,Swiss Water Decaf,0.0,Ethiopia,Africa,"vanilla,blueberry,navel orange",
+79,165,Peru La Union,Camber,La Union,Washed,1800.0,Peru,Americas,"bosc pear,brown sugar,melon","Typica,Caturra"
+80,166,Zambia Mafinga Hills Decaf,Camber,Kateshi & Isanya Estates,EA Decaf,1470.0,Zambia,Africa,"red apple,concord grape,cranberry","Java,Catimor 129"
+81,167,Guatemala El Bosque,Camber,,Washed,1750.0,Guatemala,Americas,"dark chocolate,pear,plum","Caturra,Bourbon"
+82,168,Antigua,Capeuleu,,Washed,0.0,Guatemala,Americas,,
+83,169,Dota Tarrazu Santa Maria,Cedar Spokes,,Pulp Natural,0.0,Costa Rica,Americas,"brown sugar,vanilla,lemon",
+84,170,Banko Michica,City of Saints,Degefa Sema,Natural,2000.0,Ethiopia,Africa,"raspberry candy,strawberry rhubarb pie",Heirlooms
+85,171,Nano Challa,Climpson & Sons,,Washed,1900.0,Ethiopia,Africa,"vanilla,grape,peach",Heirlooms
+86,172,Ubwiza,Coava,Ubwiza Bwikawg Co-op,Washed,1600.0,Burundi,Africa,,"Bourbon,Mibirizi"
+87,173,Coava - Burundi,Coava,,Washed,0.0,Burundi,Africa,,
+88,174,Nathalia Maria,Coava,Nathalia Maria,Natural,1200.0,Brazil,Americas,"red apple,roasted macadamia nuts",Red Catuai
+89,175,Costa Rica,Coffee Works Project,,Honey,0.0,Costa Rica,Americas,,"Caturra,Catuai"
+90,176,Ethiopia Yirgacheffe Gelana Abaya,Conduit Coffee Company,Gelana Abaya co-op,Washed,1950.0,Ethiopia,Africa,"caramel,green apple,cocoa powder",Heirlooms
+91,177,Kilimanjaro AA,Curio Coffee,,Washed,1550.0,Tanzania,Africa,"raisin,pear,maple syrup",
+92,178,Curva - Peru,Curva,,Washed,0.0,Peru,Americas,,
+93,179,Ethiopia,Cuvee,,Natural,2025.0,Ethiopia,Africa,,Heirlooms
+94,180,Jackalope,Cuvee,,Washed,1900.0,Colombia,Americas,"citrus,malt",Caturra
+95,181,Lost Highway,Dark Arts Coffee,,Washed,0.0,Nicaragua,Americas,,
+96,182,Love Supreme,Dark Matter,,Washed,0.0,Blend,Blend,,
+97,183,Entrepreneur Blend,Dillano,,Natural,0.0,Blend,Blend,"clove,crisp",
+98,184,Cleotilde Quinchana,Dorothea,,Washed,0.0,Ecuador,Americas,tropical fruit,
+99,185,Ethiopia Sidamo Basha Bekele,Drink Coffee Do Stuff,Basha Bekele,Natural,1900.0,Ethiopia,Africa,"brown sugar,fruit punch,fragant",Heirlooms
+100,186,Santarossa Blend,Dune,,Natural,0.0,Brazil,Americas,"roasted,pie,cream,cream,sugar",Various
+101,187,Honduras Olvin Fernandez,Dune,Olvin Fernandez,Washed,0.0,Honduras,Americas,"milk chocolate,red apple,nougat",Catuai
+102,188,El Pilar Lot 4,Elm Coffee Roasters,,Washed,0.0,Guatemala,Americas,"watermelon,brown sugar,mango","Caturra,Typica,Bourbon"
+103,189,Elm Seasonal Decaf,Elm Coffee Roasters,,EA Decaf,0.0,Colombia,Americas,"round,sweet",
+104,190,Andres Pablo,Elm Coffee Roasters,,Washed,0.0,Guatemala,Americas,"caramel,lime",
+105,191,Buzira Washing Station,Embrace,Buzira Washing Station,Washed,0.0,Burundi,Africa,,
+106,192,Kayon Mountain,Embrace,Kayon Mountain,Washed,0.0,Ethiopia,Africa,,
+107,193,Finca Isabelita,Embrace,Finca Isabelita,Washed,0.0,Guatemala,Americas,,
+108,194,La Yerba Women Producers,Embrace,La Yerba Women Producers,Natural,956.0,Mexico,Americas,"gummy bear,dark chocolate",Caturra
+109,195,Congo,Empire,,Washed,0.0,Congo,Africa,"plum,ginger,brown sugar",
+110,196,Ethiopa Guiji Kercha Natural,Empire,,Natural,0.0,Ethiopia,Africa,,
+111,197,Honduras Santa Elena,Empire,,Washed,0.0,Honduras,Americas,"lemon,honey,orange,caramel",
+112,198,Guatemala El Injerto Natural,Equator,Arturo Aguirre,Natural,5750.0,Guatemala,Americas,"blueberry,star anise,red apple",Red Catuai
+113,199,San Antonio,Figure 8 Purveyors,Multiple,Washed,1800.0,Colombia,Americas,"green apple,chocolate,currant,raisin",
+114,200,Sheka Kawo Kamina Natural,Flat Track,Heleanna Georgalis,Natural,2000.0,Ethiopia,Africa,"cream,biscoff cookie,cotton candy","Ethiopia Landraces,Gemadro"
+115,201,"Colombia Huila, ALIMUCAES Womens Project",Form & Function,Alimucaes Womens Project,Washed,1900.0,Colombia,Americas,"orange blossom,white peach,rose","Colombia,Castillo,Caturra"
+116,202,San Isidro 27 - Las Lajas,Fulcrum,Chacan Solano Family,Natural,1650.0,Costa Rica,Americas,"red wine,bright,cherry,lemon,juicy",San Isidro 27
+117,203,Decaf,Fulcrum,,Swiss Water Decaf,0.0,Colombia,Americas,,
+118,204,China Menglian Daya,Fulcrum,,Washed,0.0,China,Asia,"honey,sweet,berry,black tea",
+119,205,Los Naranjales,Fulcrum,Mynow Cano,Washed,1500.0,Guatemala,Americas,"raspberry,strawberry,yellow fruit,sweet","Mundo Novo,Bourbon,Caturra,Catuai"
+120,206,Doi Saket,Fulcrum,Nui & Aoy,Washed,1300.0,Thailand,Asia,"creamy,green apple,milk chocolate,lemon",Typica
+121,207,Centroamericano,Fulcrum,CecilianoáFamily,Natural,1350.0,Costa Rica,Americas,"round,orange,lime,cherry yogurt","F1 Hybrid,Centroamericano"
+122,208,Colombia,Gaslight Coffee Roasters,,Washed,0.0,Colombia,Americas,,
+123,209,La Bendicion El Beso la Piedra,George Howell,La Soledad,Washed,5150.0,Guatemala,Americas,"mandarin orange,lime,apple","Bourbon,Caturra,Catuai"
+124,210,Yemen,George Howell,,Washed,0.0,Yemen,Asia,,
+125,211,Alaka,Go Get Em Tiger,Metad,Washed,2050.0,Ethiopia,Africa,"herbal tea,lemon,cherry",Heirlooms
+126,212,La Piramide,Go Get Em Tiger,,Washed,1850.0,Colombia,Americas,"crisp,apple pie",Caturra
+127,213,Minor Monuments,Go Get Em Tiger,,Washed,0.0,Blend,Blend,"dark chocolate,toffee,cherry",
+128,214,Ardi,Hagen,,Natural,1950.0,Ethiopia,Africa,"strawberry,black cherry,floral honey",Heirlooms
+129,215,Costa Rica Las Lajas,Hagen,Las Lajas Farm & Mill,Natural,1575.0,Costa Rica,Americas,"raspberry,fruit punch,cherry wine",Villa Sarchi
+130,216,Ethiopia Naga Singage,Hagen,,Natural,1900.0,Ethiopia,Africa,"fruit punch,mango",Heirlooms
+131,217,Kenya Swiss Water Decaf,Hagen,,Swiss Water Decaf,0.0,Kenya,Africa,"sweet,red grape","SL34,SL28"
+132,218,Finca Santa Rosa,Hagen,,Natural,1500.0,El Salvador,Americas,"dark chocolate,red apple,pecan",Pacamara
+133,219,Finca San Andres,Hagen,San Andres,Natural,1600.0,El Salvador,Americas,"walnut,honeydew melon,black currant",Pacamara
+134,220,Cacemud,Haiti Coffee Company,,Washed,0.0,Haiti,Americas,"chocolate,nutty","Bourbon,Typica,Blue Mountain,Caturra"
+135,221,Colombia Decaf,Halfwit,Agprocem,EA Decaf,0.0,Colombia,Americas,"marshmallow,chocolate cake",
+136,222,Ethiopia Kochere,Heart,,Washed,1900.0,Ethiopia,Africa,"honey,bergamot,hibiscus",Heirlooms
+137,223,Ethiopia Yirgacheffe,Hedge,Bedhatu Jibicho,Natural,1850.0,Ethiopia,Africa,"lemon,jasmine,blackberry",Heirlooms
+138,224,House Drip,Herkimer,,Washed,0.0,Blend,Blend,"dark chocolate,black cherry,caramel",Bourbon
+139,225,Conscientious Objector,Highwire,,Washed,0.0,Blend,Blend,"smooth,milk chocolate,sweet,milk,creamy,chocolate",Arabica
+140,226,Skeleton Key Decaf,Huckleberry,,EA Decaf,0.0,Colombia,Americas,"sweet,smoky,lemonade,nutty,bright,round,milk","Caturra,Typica,Bourbon"
+141,227,Ethiopia Sidamo,Humblemaker Coffee,,Natural,0.0,Ethiopia,Africa,"blueberry,caramel,milk chocolate",
+142,228,Cottonwood Creek Decaf,Humblemaker Coffee,,Swiss Water Decaf,0.0,Peru,Americas,"chocolate,caramel,orange",
+143,229,Bolivia Geisha,Intelligentsia,,Washed,0.0,Bolivia,Americas,,
+144,230,Peru,Intelligentsia,,Washed,0.0,Peru,Americas,,
+145,231,Rwanda,Intelligentsia,,Washed,0.0,Rwanda,Africa,,
+146,232,Santuario Red Typica,Intelligentsia,Camilio Merizalde,Washed,0.0,Colombia,Americas,"lime,plum,pomegranate",Red Typica
+147,233,Tres Santos,Intelligentsia,Jose Alberto Diaz & Fausto Lasso,Washed,0.0,Colombia,Americas,"raisin,raw sugar,lemon curd",Caturra
+148,234,Guatemala,Ipsento,Finca Guayabales,Washed,0.0,Guatemala,Americas,"solid body,red grape,toffee","Bourbon,Caturra"
+149,235,Santa Isabel / Guatemala,Irving Farm,Alex & Martin Keller,Washed,1300.0,Guatemala,Americas,"butterscotch,lemon zest,vanilla","Catuai,Caturra,Bourbon"
+150,236,Rwanda Lake Kivu,Java House,,Washed,0.0,Rwanda,Africa,"citrus,floral,dark chocolate",
+151,237,La Familia Guarnizo,Joe Coffee,Guarnizo Family,Washed,1700.0,Colombia,Americas,"sugar,sweet,tangerine,pecan",Caturra
+152,238,Ejo Heza,Joe Coffee,Kopakoma Cooperative,Washed,1800.0,Rwanda,Africa,"orange blossom,red plum,custard",Bourbon
+153,239,Mirolindo,Junior's Roasted Coffee,"Dorian Felipe Osorio, Rolando Cordoba, and Onias Suarez",Washed,1700.0,Colombia,Americas,"orange,brown sugar,vanilla","Caturra,Colombia"
+154,240,Sitio Belis,Kalsada,,Yellow Honey,0.0,Philippines,Asia,,
+155,241,Burundi Nemba Natural,Kickapoo,,Natural,1900.0,Burundi,Africa,"blackberry,red currant,lime",Red Bourbon
+156,242,Burundi Nemba Washed,Kickapoo,,Washed,1900.0,Burundi,Africa,sugar cookie,Red Bourbon
+157,243,Ethiopa Kirite,Kickapoo,,Washed,2050.0,Ethiopia,Africa,"honey,floral,lime","Kurume,Dega"
+158,244,Fondo Paez Cooperative,Kickapoo,Fondo Paez Cooperative,Washed,1750.0,Colombia,Americas,,"Bourbon,Typica,Colombia"
+159,245,Kenya Mbeguka,Kickapoo,,Washed,1650.0,Kenya,Africa,"tangerine,cranberry,red fruit","Ruiru 11,SL28"
+160,246,Misty Valley,Kuma,,Natural,1950.0,Ethiopia,Africa,"cotton candy,sweet tea",Heirlooms
+161,247,Shakiso,Kuma,,Natural,1750.0,Ethiopia,Africa,"lemon meringue,strawberry pop tart,white chocolate",Heirlooms
+162,248,Bear Claus,Kuma,,Washed,0.0,Blend,Blend,,
+163,249,Bella Carmona,Kuma,,Washed,0.0,Guatemala,Americas,"brownie,pink lady apple,dulce de leche",Bourbon
+164,250,Colombia Excelso,Kuma,Agprocem,Swiss Water Decaf,1800.0,Colombia,Americas,"praline,pomelo,milk chocolate",Caturra
+165,251,Elvis Enamorado,Kuma,,Washed,0.0,Honduras,Americas,"pineapple,cane sugar,black cherry",Pacas
+166,252,Nansebo,Kuma,,Washed,0.0,Ethiopia,Africa,"red currant,raspberry,dark chocolate",Heirlooms
+167,253,Nyeri Hill,Kuma,,Washed,0.0,Kenya,Africa,"passion fruit,cherry,black currant,pinot noir",SL28
+168,254,Guji,Kuma,,Washed,2050.0,Ethiopia,Africa,"black tea,bright,raspberry,mango,cane sugar,fruity,round,tea,sugar",Heirlooms
+169,255,Bedhatu Jibicho,Kuma,Bedhatu Jibicho,Natural,1850.0,Ethiopia,Africa,"peach gummies,chocolate nibs,strawberry jam",Heirlooms
+170,256,Sun Bear,Kuma,,Washed,0.0,Blend,Blend,"creamy,bitter,complex,sweet","SL28,Heirlooms,SL34"
+171,257,Nyamyumba,Kuma,,Washed,1750.0,Rwanda,Africa,"mandarin orange,heath bar,raspberry",Bourbon
+172,258,Konga Cooperative,La Terza,Konga Cooperative ,Washed,0.0,Ethiopia,Africa,"peach,white grape,floral,honeydew,milk chocolate",Heirlooms
+173,259,Diablo,Ladro Roasting,,Washed,0.0,Blend,Blend,"brown sugar,walnut,baker's chocolate",
+174,260,Ardi,LaMill,,Natural,0.0,Ethiopia,Africa,"floral,citrus",Heirlooms
+175,261,Lighthouse Blend,Lighthouse,,Washed,0.0,Blend,Blend,"dark chocolate,medium bodied,fruit",
+176,262,Companion,Little Wolf,,Washed,0.0,Blend,Blend,"berry,creamy,chocolate",
+177,263,Gatare,Little Wolf,,Washed,1765.0,Rwanda,Africa,"plum candy,juicy,orange",Bourbon
+178,264,Ethiopia Bushan Dimo,Lone Pine Coffee Roasters,,Natural,0.0,Ethiopia,Africa,,
+179,265,Peru Wilmer Cardoza,Lone Pine Coffee Roasters,,Washed,0.0,Peru,Americas,"bittersweet cocoa,cherry,stewed plum",
+180,266,Decaf Colombia Traviesa,Lone Pine Coffee Roasters,,EA Decaf,0.0,Colombia,Americas,"lime,strawberry,clover honey,nectarine",
+181,267,Vernal Creation,Looking Homeward,Rosalio Ventura,Natural,0.0,Honduras,Americas,"tamarind,hard candy,tropical punch",Obata
+182,268,Tano Ndogo,Mad Cap,MUURU FAMILY AND FRIENDS,Washed,1850.0,Kenya,Africa,"citrus,ripe fruit,floral",SL28
+183,269,Corazon,Mad Cap,Efrain Salvador Carhuallocllo,Washed,2000.0,Peru,Americas,"milk chocolate,sweet,dates,peach",Yellow Caturra
+184,270,Colombia / Gomez Decaf,Maquina,Multiple,EA Decaf,0.0,Colombia,Americas,"dark chocolate,creamy,vanilla","Caturra,Castillo"
+185,271,Honduras  Finca Emmanuel,Maquina,Familia Nolasco,Washed,0.0,Honduras,Americas,"chocolate,toffee,sweet",Pacas
+186,272,Decaf,Medici,,EA Decaf,1750.0,Colombia,Americas,"raspberry scone,marzipan,white grape","Caturra,Castillo"
+187,273,Cauca At'e,Megaphone,,Washed,0.0,Colombia,Americas,"honey,citrus",
+188,274,Magdelana,Merit,,Washed,0.0,Colombia,Americas,"green apple,chocolate mousse,silky","Caturra,Castillo,Heirlooms"
+189,275,Sugarcane Decaf,Merit,,EA Decaf,1800.0,Colombia,Americas,"vanilla bean,clove,strawberry","Colombia,Castillo,Caturra"
+190,276,"Colombia, Cuaca - EA Decaf",Methodical,,EA Decaf,0.0,Colombia,Americas,"graham,lemon peel,sweet fruit",
+191,277,Finca Medina,Methodical,Finca Medina,Natural,1600.0,Guatemala,Americas,"tangerine,pineapple,lemon","Bourbon,Marsellesa"
+192,278,Colombia Nelson Chaves,Metric,Nelson Chaves,Washed,2000.0,Colombia,Americas,"sugar cookie,rosehips,tangerine jelly","Caturra,Castillo"
+193,279,La Comunion,Metric,Beneficio San Vicente,Honey Washed,0.0,Honduras,Americas,"milk chocolate,lemon,honey","Parainema,Bourbon,Catuai"
+194,280,Lake City Blend,Metropolis,,Washed,0.0,Blend,Blend,"malt,buttery,lemon",
+195,281,,Milimetrica,,Washed,0.0,Blend,Blend,,
+196,282,Moab - Ethiopia,Moab Coffee Roasters,,Natural,0.0,Ethiopia,Africa,"creamy,blueberry",
+197,283,,Monkey Coffee,,Washed,0.0,Peru,Americas,,
+198,284,Eyasu Worasag,Mother Tongue Coffee,Eyasu Worasag,Washed,2000.0,Ethiopia,Africa,"pink grapefruit,blackberry","Heirlooms,Dega"
+199,285,Decaf Fincas Mierisch,Mother Tongue Coffee,Eleane Mierisch,Swiss Water Decaf,1325.0,Nicaragua,Americas,"cake,smooth,fermented,sweet,juicy","Java,Yellow Pacamara,Red Pacamara,Red Catuai,Red Bourbon"
+200,286,San Rafael,Moustache Coffee Club,,Washed,1950.0,Colombia,Americas,"molasses,black currant,chocolate",Caturra
+201,287,Santa Julia,Moustache Coffee Club,Salaverria Family,Washed,1545.0,El Salvador,Americas,"milk chocolate,almond,red grape","Bourbon,Pacas"
+202,288,Ethiopia,Neckar,Kenisa,Washed,0.0,Ethiopia,Africa,"cane sugar,citrus,floral",Heirlooms
+203,289,,Neira Café Lab,,Washed,0.0,Peru,Americas,,
+204,290,Benti Nenqa,Noble,Multiple,Natural,2000.0,Ethiopia,Africa,"blackberry,banana,orange peel",Heirlooms
+205,291,Bonita Natural,Novo,Finca Bonita Springs,Natural,0.0,Panama,Americas,"pineapple,raspberry,rose",Caturra
+206,292,Pinavete Natural,Novo,,Natural,0.0,Nicaragua,Americas,"peach,raspberry,molasses",Caturra
+207,293,Ethiopia Layo Taraga,Oddly Correct,Haro Wachu Farmers,Washed,2000.0,Ethiopia,Africa,"pear,cream,orange,brown sugar,peach,rooibos tea",Bourbon
+208,294,Adisu Kindane Natural Organic,Olympia,,Natural,0.0,Ethiopia,Africa,chocolate,
+209,295,Amparo Pajoy,Olympia,Amparo Pajoy,Washed,1700.0,Colombia,Americas,"citrus,brown sugar,tropical fruit",Caturra
+210,296,Banko,Olympia,Multiple,Washed,0.0,Ethiopia,Africa,"citrus zest,amaretto,cherry",Heirlooms
+211,297,Decaf Asterisk,Olympia,,EA Decaf,0.0,Colombia,Americas,"milk chocolate,caramel,marshmallow",Caturra
+212,298,El Socooro Java,Olympia,Juan Diego De La Cerda,,0.0,Guatemala,Americas,"jasmine,jam,candied citrus",Java
+213,299,Hama,Olympia,Hama Cooperative,,0.0,Ethiopia,Africa,"peach,lemon,apricot",Heirlooms
+214,300,Holiday Blend,Olympia,,Washed,0.0,Ethiopia,Africa,"spice,plum,citrus,berry",
+215,301,La Palma,Olympia,,Washed,0.0,El Salvador,Americas,"hazelnut,dark chocolate,cherry","Pacas,Bourbon"
+216,302,Little Buddy,Olympia,,Washed,0.0,Blend,Blend,"stone fruit,chocolate",
+217,303,Lucas Melo,Olympia,Lucas Melo,Washed,2200.0,Colombia,Americas,"berry,brown sugar,cherry",Colombia F8
+218,304,Mikuba,Olympia,,Washed,0.0,Burundi,Africa,"orange,tea,brown sugar",Bourbon
+219,305,Ricardo Ariz Natural,Olympia,,Natural,0.0,El Salvador,Americas,"port,chocolate",Bourbon
+220,306,Ariz Family SL28,Olympia,Migual Angel Ariz,Washed,0.0,El Salvador,Americas,"tea,brown sugar",SL28
+221,307,Marta Mejia Micro Lot,Olympia,Marta Mejia,Washed,1650.0,Guatemala,Americas,"chocolate,rose,strawberry",
+222,308,Gitwe Honey Micro Lot 1,Olympia,Multiple,Honey,0.0,Burundi,Africa,"chocolate,tea",
+223,309,Desta Gola,Olympia,Desta Gola,Washed,0.0,Ethiopia,Africa,"jasmine,peach,berry jam","Dega,Kurume"
+224,310,Coinacagro/Guatemala,Onda,Coinacagro Cooperative,Washed,1700.0,Guatemala,Americas,"chocolate,honey,sugar,apple,caramel,grapefruit",Heirlooms
+225,311,Kiko's Coffee,Onda,"Francisco ""Kiko"" Ribeiro",Pulp Natural,1200.0,Brazil,Americas,"brown sugar,almond,milk chocolate",
+226,312,Laos,Onda,The Four Families of Setapoung,Washed,1200.0,Laos,Asia,"black currant,dark chocolate",
+227,313,Victor Calderon/Decaf,Onda,Victor Calderon,Swiss Water Decaf,1750.0,Guatemala,Americas,"almond crisp,cocoa pops milk,orange","Pache,Caturra,Red Bourbon"
+228,314,Elizabeth Ortega/Guatemala,Onda,Elizabeth Ortega,Washed,1473.0,Guatemala,Americas,"grapefruit,cocoa,honey,apple,caramel,chocolate",Villa Sarchi
+229,315,Monarch,Onyx Coffee,,Natural,1800.0,Blend,Blend,"red wine,dark chocolate,syrup",Heirlooms
+230,316,Colombia La Palma Cristian Monroy,Onyx Coffee,El Volcan,EA Decaf,1550.0,Colombia,Americas,"black tea,strawberry,vanilla yogurt",Castillo
+231,317,Decaf Colombia Medellin,Onyx Coffee,,Swiss Water Decaf,1550.0,Colombia,Americas,"apple,pecan,chocolate,sweet cream","Caturra,Castillo,Bourbon"
+232,318,Hambela Buku,Onyx Coffee,,Natural,0.0,Ethiopia,Africa,"bergamot,raspberry,coconut water,slick",Heirlooms
+233,319,Peru Maria Rojas,Onyx Coffee,Maria Rojas,Washed,1850.0,Peru,Americas,"apple,honey,dates,tangerine,white tea",Caturra
+234,320,Southern Weather,Onyx Coffee,,Washed,1850.0,Blend,Blend,"juicy,candied walnut,milk chocolate,plum,citrus",
+235,321,,Origen,,Washed,0.0,Peru,Americas,,
+236,322,Suke Quto,Panther,Multiple,Washed,2200.0,Ethiopia,Africa,"floral,guava,orange zest,peach,lemon,juicy,silky,orange",Heirlooms
+237,323,Guatemala Pulcal,Parlor Coffee,Maria Zelaya,Washed,1750.0,Guatemala,Americas,"fresh cream,rose,caramel","Caturra,Bourbon"
+238,324,Posholl Cafe,Posholl Cafe,Rafael Huaman Quispe,,1500.0,Peru,Americas,,Arabica
+239,325,El Socorro Maracaturra,PT's Coffee Roasting Co.,Juan Diego De La Cerda,Washed,5750.0,Guatemala,Americas,"cocoa powder,navel orange,red grape",Maracaturra
+240,326,MWP Decaf Huerta del Rio,PT's Coffee Roasting Co.,Jose Vasquez,Swiss Water Decaf,6150.0,Mexico,Americas,"graham cracker,cocoa,raisin",Heirlooms
+241,327,Sun Liner Blend,Push & Pour,,Washed,0.0,Blend,Blend,"green apple,salted caramel,cocoa powder,chocolate cake",
+242,328,Integral Blend,Q.E.D Coffee,,Washed,0.0,Blend,Blend,,
+243,329,"Peru - Flor de Selva, La Coipa, San Ignacio",Q.E.D Coffee,,Washed,1950.0,Peru,Americas,marshmallow,"Red Caturra,Pache,Bourbon"
+244,330,Reina y Pavel,Quentin,,Natural,1350.0,Mexico,Americas,"orange peel,frese,cacao","Caturra,Bourbon"
+245,331,Decaf Colombia Huila,Quills,,EA Decaf,0.0,Colombia,Americas,"lemon,brown sugar,nougat",
+246,332,Guatemala Huehuetenango,Quills,,Washed,0.0,Guatemala,Americas,"caramel,red apple,peach",
+247,333,Honduras: Las Flores,Quills,,Washed,0.0,Honduras,Americas,"milk chocolate,grape,caramel",Catuai
+248,334,Horse Feathers,Quills,,Washed,0.0,Blend,Blend,"syrup,apple,lavender,cooked peach",
+249,335,Yabitu Koba,Revelator,,Natural,0.0,Ethiopia,Africa,bright,
+250,336,Chirinos,Reykavik Roasters,,Washed,0.0,Peru,Americas,caramel,"Caturra,Bourbon"
+251,337,Dona Nenem,Reykavik Roasters,,Honey Natural,0.0,Brazil,Americas,"tobacco,hazelnut,dark chocolate",Yellow Bourbon
+252,338,Los Gigantes,Ritual,Gigante Area Producers,Washed,1700.0,Colombia,Americas,"meyer lemon,dark chocolate,cranberry",Caturra
+253,339,Decaf Los Gigantes,Ritual,Los Gigantes Producers,EA Decaf,1700.0,Colombia,Americas,"blackberry,chocolate,cedar,banana,nutty,sweet,jam,sugar,bright,dried fruit","Castillo,Colombia,Caturra"
+254,340,Burundi,Ritual,Munyinya Hill Area Producers,Washed,0.0,Burundi,Africa,"blackberry,grapefruit,graham cracker",Bourbon
+255,341,Las Manos,Ritual,Santos Alexis Dominguez,Washed,1550.0,Honduras,Americas,"yerba mate,turbinado sugar,grapefruit","Pacas,Typica"
+256,342,Las Nubes,Saint Frank,Alexi Moreno,Washed,0.0,Honduras,Americas,"tropical fruit,creamy",
+257,343,Bali Kintamani Natural,Seattle Coffee Works,,Natural,0.0,Indonesia,Asia,"macadamia nut,chocolate,raspberry","Bourbon,Djember,Typica Linie S"
+258,344,Divisadero,Seattle Coffee Works,,Washed,0.0,El Salvador,Americas,,
+259,345,Guatemala Huehuetenango La Esperanza Pacamara,Seattle Coffee Works,Aurelio Villatoro,Washed,1550.0,Guatemala,Americas,"white grape,honeydew,lavender",Pacamara
+260,346,Panama,Seattle Coffee Works,,Natural,0.0,Panama,Americas,"red grape,brown sugar,cocoa","Caturra,Catuai"
+261,347,Panama,Seattle Coffee Works,Carlos Aguilera Franceschi,Washed,1700.0,Panama,Americas,"pecan,molasses,elderberry","Catuai,Caturra"
+262,348,Yirgacheffe,Seattle Coffee Works,,Natural,0.0,Ethiopia,Africa,,
+263,349,Cup of Excellence #21,Sey Coffee,Nelson Ramirez,Washed,1600.0,Honduras,Americas,"apple,kiwi,chocolate",Catuai
+264,350,Colombia,Sight Glass,,Washed,0.0,Colombia,Americas,"concord grape,red apple,toffee",
+265,351,Hunky Dory,Sight Glass,,Washed,0.0,Blend,Blend,"elderberry,flan,cocoa",
+266,352,Colombia,Sight Glass,,Washed,0.0,Colombia,Americas,,
+267,353,Catalyst,Sir Owlvericks,,Washed,1500.0,Honduras,Americas,"vanilla,peanut,cola,orange zest",
+268,354,TIMOR-LESTE LETEFOHO LEBUDU KRIAK,Sisters,Multiple,Washed,1350.0,Timor-Leste,Asia,"brown sugar,plum,milk chocolate","Typica,Timor Hybrid"
+269,355,Cream + Sugar,Slate Coffee Roasters,,Pulp Natural,0.0,Guatemala,Americas,"brown sugar,dark chocolate,toasted almond","Caturra,Bourbon"
+270,356,Ethiopia Adisu Kidane,Slate Coffee Roasters,Adisu Kidane,Natural,1925.0,Ethiopia,Africa,,Heirlooms
+271,357,Ethiopia Guji Shakiso Natural,Souvenir,Multiple,Natural,0.0,Ethiopia,Africa,"delicate,jasmine tea,floral,melon candy",
+272,358,Rwanda Coko Kula,Souvenir,Twongere Kawa Coko & Kula Project,Washed,0.0,Rwanda,Africa,"minty,wintermelon tea,honey boba,grass jelly",
+273,359,Decaf La Serrania,Sparrows,,EA Decaf,0.0,Colombia,Americas,"molasses,sugar","Caturra,Castillo"
+274,360,Ethiopia Dimtu Tero,Sparrows,Getachew Zeleke,Washed,0.0,Ethiopia,Africa,"jasmine,delicate,soft acidity,meyer lemon,melon",Heirlooms
+275,361,Torea,Spyhouse,,Washed,0.0,Ethiopia,Africa,"sweet tea,peach,elderflower",Heirlooms
+276,362,Wegida,Square Mile,,Washed,0.0,Ethiopia,Africa,"orange blossom,syrup,peach",Heirlooms
+277,363,Desvelado Decaf,Stamp Act,Acevedoa,EA Decaf,1600.0,Colombia,Americas,"black cherry,almond,mandarin orange","Tabi,Colombia,Castillo,Caturra"
+278,364,Finca El Arrollo,Stamp Act,Finca El Arrollo,Washed,1650.0,Guatemala,Americas,"rose,honeydew",Caturra
+279,365,Easy Does It,Stay Golden,,Washed,1650.0,Colombia,Americas,"citrus,brown sugar,ripe fruit","Castillo,Caturra,Colombia"
+280,366,Hutwe,Stay Golden,Virunga Coffee Company,Washed,1700.0,Congo,Africa,"sweet,pineapple",Bourbon
+281,367,Valle Verde,Stay Golden,,Washed,1650.0,Peru,Americas,"apricot,coffee cherry,juicy","Bourbon,Typica,Caturra,Catimor"
+282,368,Neighbors & Crops,Steady State,Gustavo Parrado,Natural,1650.0,Colombia,Americas,"lemon verbena,marshmallow,strawberry shortcake",Castillo
+283,369,Rutsiro Mushonyi,Sterling Coffee Roasters,,Washed,1900.0,Rwanda,Africa,"honey,dried apples",Bourbon
+284,370,Amigos Del Huila,Street Bean,Amigos del Huila,EA Decaf,1750.0,Colombia,Americas,"peach,wildflower,fruit salad",Caturra
+285,371,Ines Perafan,Street Bean,Ines Perafan,Washed,1600.0,Colombia,Americas,"chocolate ganache,juicy plum",Caturra
+286,372,La Yerba Women Producers,Street Bean,La Yerba Women Producers,Natural,900.0,Mexico,Americas,"pan dulce,lime,tamarind,apricot","Caturra,Bourbon"
+287,373,Roosevelt Blend,Street Bean,Aspoguate & Majomut Cooperative,Washed,1300.0,Blend,Blend,"caramel,muscovado sugar",Heirlooms
+288,374,Sicobi,Street Bean,,Washed,0.0,Mexico,Americas,,"Typica Pluma,Caturra,Mundo Novo"
+289,375,Suke Quto,Street Bean,Tesfaye Bekele's Suke Quto Farm & Washing Station,Washed,2000.0,Ethiopia,Africa,"peach,blackberry pastry,jasmine","Kurume,Wolicho"
+290,376,Chelchele,Street Bean,,Natural,0.0,Ethiopia,Africa,"apricot,tamarind,jasmine,limoncello",
+291,377,Las Lajas,Street Bean,Las Lajas Farm & Mill,Honey,1400.0,Costa Rica,Americas,"toasted coconut,cocoa,strawberry,walnut,vanilla,dates","Catuai,Caturra,Villa Sarchi"
+292,378,Hometown,Sweet Bloom,Multiple,Washed,6000.0,Blend,Blend,"blackberry,praline",Heirlooms
+293,379,Sun Lamp Decaf,Tandem,,EA Decaf,0.0,Blend,Blend,sweet,Various
+294,380,Colombia Decaf,Temple,,Swiss Water Decaf,0.0,Colombia,Americas,"cherry,milk chocolate,citrus",
+295,381,Costa Rica Sonora Estate Venecia Honey,Temple,Sonora Estate,Honey,1250.0,Costa Rica,Americas,"hazelnut,cacao nibs,pear",Venecia
+296,382,Akmel Nuri,The Coffee Collective,Akmel Nuri,Natural,1850.0,Ethiopia,Africa,"french nougat,cantaloupe,syrup",Heirlooms
+297,383,Finca Vista Hermosa,The Coffee Collective,Edwin Martinez Pineda,Washed,1750.0,Guatemala,Americas,,"Pache,Caturra,Yellow Bourbon,Red Bourbon"
+298,384,Colombia,Thump Coffee Roasters,,Washed,0.0,Colombia,Americas,,
+299,385,Fazenda Recreio,TimberTrain,,Pulp Natural,0.0,Brazil,Americas,"peanut butter,orange,milk chocolate",Yellow Bourbon
+300,386,Finca Nueva Linda,TimberTrain,,Natural,0.0,Mexico,Americas,"caramel,cocoa,wine acidity",Catuai
+301,387,Indonesia,Tin Umbrella,,Washed,0.0,Indonesia,Asia,,
+302,388,Carmelita,Tony,,Washed,0.0,Blend,Blend,,
+303,389,Ethiopia Tega & Tula,Vagrant,,Natural,0.0,Ethiopia,Africa,"jasmine tea,juicy,blueberry lemon muffin",
+304,390,Peru Cenfrocafe,Vagrant,,Natural,0.0,Peru,Americas,"chocolate covered almond,vanilla bean,creamy,medium bodied,lavender honey",
+305,391,Seabright House Blend,Verve,,Washed,1850.0,Colombia,Americas,"coconut,round,sweet",
+306,392,Alexander Martinez,Verve,Alexander Martinez,Washed,1700.0,Honduras,Americas,"pineapple,layered,cherry","Bourbon,Pacas"
+307,393,El Tesoro Tabi,Verve,,Washed,0.0,Colombia,Americas,"grapefruit,pomegranate,lasting",
+308,394,Juan Benitez,Verve,,Washed,0.0,Honduras,Americas,"round,dried blueberry,star fruit",
+309,395,Rio Blanco,Verve,,Washed,0.0,Colombia,Americas,"shortbread,buttery,key lime",
+310,396,Yacuanquer,Verve,Narino Municipality,Washed,2000.0,Colombia,Americas,"lasting,buttercream,apricot","Caturra,Castillo,Colombia"
+311,397,Denis Teruel,Victrola,,Washed,0.0,Honduras,Americas,"cocoa,red apple,toasted almond","Bourbon,Pacas"
+312,398,Nicaragua Mozonte Finca Un Regalo de Dios El Aserradero,Victrola,Luis Alberto Balladerez,Honey,1650.0,Nicaragua,Americas,"pepper,melon,sweet pea,nutmeg,plum,milk chocolate,toasted rice",Red Catuai
+313,399,Guatemala,Victrola,Finca Chejoj,Washed,1700.0,Guatemala,Americas,"red apple,chocolate roasted hazelnut","Caturra,Catuai"
+314,400,Ethiopia Konga,Westbean,Konga Cooperative,Washed,2100.0,Ethiopia,Africa,"nougat,almond butter,narcissus,peach",Heirlooms
+315,401,Costa Rica Romelia,Westbean,Manual Rojas Arias,Washed,1400.0,Costa Rica,Americas,"milk chocolate,sweet pear,butter pecan","Catuai,Caturra"
+316,402,Project Congo Muungano,Wonderstate,Muungano Cooperative,Washed,1800.0,Congo,Africa,"spice,tangerine",Bourbon
+317,403,Burundi Nemba,Wonderstate,Nemba Washing Station,Washed,1950.0,Burundi,Africa,"apricot,meyer lemon,red currant","Red Bourbon,Jackson"
+318,404,El Salvador El Balsamo Finca Las Nubes,Wrecking Ball,Finca Las Nubes,,0.0,El Salvador,Americas,"orange,chocolate,walnut",
+319,1100,71 House Blend,Irving Farm,,Washed,1350.0,Blend,Blend,"round,milk,smooth,chocolate","Catuai,Bourbon,Caturra"
+320,1101,Blackstrap Blend,Irving Farm,,Washed,1200.0,Blend,Blend,milk,"Catuai,Catimor,Typica,Heirlooms,Icatu,Caturra,Pacas,Mundo Novo,Bourbon"
+321,1102,Hudson,Irving Farm,,Washed,1300.0,,,roasted,"Pacas,Catuai,Bourbon,Typica,Caturra,Catimor"
+322,1126,Streetlevel,Verve,,Washed,1500.0,,,"balance,sweet,stone fruit,citrus,milk",
+323,1140,Sermon,Verve,Multiple,Washed,1200.0,Blend,Blend,"chocolate,dark chocolate,substantial,blueberry,sweet",
+324,1141,Buena Vista,Verve,Multiple,Washed,1700.0,Blend,Blend,"chocolate,dark chocolate",
+325,1147,Decaf Blackstrap,Irving Farm,,EA Decaf,800.0,,,"caramel,raisin,spice,milk,smooth",
+326,1162,Keystone Blend,ReAnimator Coffee Roasters,,Washed,9999.0,Blend,Blend,"light,clean","Heirlooms,Castillo,Caturra"
+327,1163,Foundation Blend,ReAnimator Coffee Roasters,,Washed,9999.0,Blend,Blend,roasted,"Caturra,Heirlooms,Bourbon"
+328,1168,Zip Zinger,Dune,,Washed,9999.0,,,"stone fruit,caramel,milk,chocolate,super",Various
+329,1170,Presidio Decaf,Dune,,EA Decaf,9999.0,,,"brown sugar,sugar,chemical,chocolate,citrus",Various
+330,1171,House Blend,Dune,,Washed,9999.0,Blend,Blend,"malt,apple,balance,creamy",Various
+331,1180,Buffalo Blend,Airship,,Washed,9999.0,Blend,Blend,"crisp,apple,almond,honey,green apple,smooth",Bourbon
+332,1187,West Coast,Panther,,Washed,9999.0,,,"grape,light,concord grape,sweet,bright,citrus,raspberry,lemonade,chocolate",Various
+333,1188,Water Processed Decaf,Panther,,EA Decaf,9999.0,,,"chocolate,creamy,sweet,honey",Red Catuai
+334,1191,Blacksmith Espresso,Quills,,Washed,945.0,,,milk,"Castillo,Colombia,Yellow Catuai"
+335,1211,Bright,Kuma,,Washed,1800.0,,,"tropical fruit,floral,bright,citrus,berry",Heirlooms
+336,1212,Balanced,Kuma,,Washed,1400.0,,,"silky,sweet,balance","Castillo,Colombia,Caturra,Catuai,Pacas,Bourbon"
+337,1223,Eternal Flame,Gimme!,,Washed,9999.0,,,"roasted,nutty,creamy,caramel","Topazio,Mundo Novo,Bourbon,Red Catuai,Yellow Catuai"
+338,1230,House Blend,Atomic,,Washed,1200.0,Blend,Blend,"milk,milk chocolate,smooth,chocolate,nutty","Catuai,Caturra,Bourbon,Typica"
+339,1231,"Serra Negra, Brazil",Quills,,Pulp Natural,9999.0,Brazil,Americas,"citrus,nutty,clean,milk,milk chocolate,silky,chocolate","Bourbon,Typica,Catuai"
+340,1232,"Gran Galope, Colombia",Quills,,Washed,9999.0,Colombia,Americas,"balance,honey,almond,sweet,caramel,chocolate","Castillo,Caturra,Colombia"
+341,1234,Time and Temperature,Tandem,,Washed,9999.0,,,,"Colombia,Caturra,Heirlooms,Castillo"
+342,1235,Darkness,Gimme!,,Washed,9999.0,,,"roasted,bitter,balance,silky,brownie,sugar,cocoa",Bourbon
+343,1237,Leftist Espresso,Gimme!,,Washed,9999.0,,,"tangerine,sweet,pecan,sugar","Caturra,Bourbon,Typica,Pache,Catimor"
+344,1238,FTW (For The Win),AKA,,Washed,9999.0,,,clean,"Bourbon,Caturra,Heirlooms"
+345,1239,OMG (Oh My God),AKA,,Washed,9999.0,,,,"Villa Sarchi,Heirlooms"
+346,1248,ORG Espresso,Klatch,,Washed,9999.0,,,"walnut,marshmallow,molasses,super,clean,sweet",Various
+347,1256,French Roast,Klatch,,Washed,9999.0,,,"chocolate,smooth,floral,berry,grape",Various
+348,1258,Crazy Goat,Klatch,,Washed,9999.0,,,"toffee,spice,dark chocolate,complex,chocolate",Various
+349,1268,Neon Espresso,Dogwood,Multiple,Washed,1800.0,,,"sweet,candy,citrus,bright,syrup,syrup","Catuai,Heirlooms"
+350,1269,Bear Hug Espresso,Dogwood,Multiple,Washed,950.0,,,"brown sugar,cake,chocolate,berry,sweet,sugar,roasted","Typica,Caturra,Catuai,Yellow Bourbon,Bourbon"
+351,1270,Mixtape,Dogwood,Multiple,Washed,1350.0,,,bright,"Bourbon,Catuai,Caturra,Colombia,Typica"
+352,1279,Zamboni Cold Brew,Dogwood,"Carvalho Family (B), Haile Gebre (E)",Natural,950.0,Ethiopia,Africa,"chocolate,fruity,roasted,toffee,sweet,smooth","Yellow Bourbon,Heirlooms"
+353,1290,Black Velvet,Atomic,,Washed,1000.0,,,"silky,smooth,spice,nutty,sugar,sweet,milk","Bourbon,Catimor"
+354,1291,Rocketeer,Atomic,,Washed,1000.0,,,"spice,smooth,cedar,roasted,milk,citrus,chocolate","Bourbon,Catimor"
+355,1292,Diesel,Atomic,,Washed,1000.0,,,"earthy,smoky","Catuai,Bourbon,Catimor,Typica"
+356,1293,Cosmo,Atomic,,Washed,1000.0,,,"milk,chocolate,smooth,dark chocolate,black pepper,pepper,peanut butter,peanut","Heirlooms,Typica,Caturra,Catuai"
+357,1294,Intensi,Atomic,,Washed,1300.0,,,"spice,dried fruit,walnut,roasted,smooth,chocolate","Catuai,Bourbon,Caturra,Typica"
+358,1300,Parts & Labor Blend,Maquina,,Washed,1100.0,Blend,Blend,"floral,balance,smooth,chocolate","Catuai,Heirlooms"
+359,1304,"Kanzu, Rwanda",George Howell,,Washed,2050.0,Rwanda,Africa,"cherry,sweet",French Mission Bourbon
+360,1306,Blue Orchid Blend,Huckleberry,,Washed,1000.0,Blend,Blend,"caramel,sweet,chocolate,milk","Colombia,Bourbon,Castillo"
+361,1307,Phantom Limb Blend,Huckleberry,,Washed,1700.0,Blend,Blend,berry,Heirlooms
+362,1315,West End Blues,Tandem,,Washed,9999.0,,,complex,Mixed
+363,1317,Stoker,Tandem,,Washed,9999.0,,,,Various
+364,1320,Ethiopia Kochere,Atomic,,Washed,1900.0,Ethiopia,Africa,"peach,floral,black tea,tea,citrus,delicate",Heirlooms
+365,1331,Sound & Vision,Huckleberry,,Washed,1000.0,,,"round,milk,caramel,chocolate","Heirlooms,Castillo,Caturra,Bourbon,Colombia"
+366,1368,Petunias,Revelator,,Washed,9999.0,,,"chocolate,smooth,sweet,cocoa,cherry",Caturra
+367,1369,Misfit,Revelator,,Washed,9999.0,,,"dark chocolate,chocolate,pecan,butterscotch,praline",Caturra
+368,1373,Black Bear Blend,Airship,,Washed,9999.0,Blend,Blend,"walnut,roasted,sweet,complex",Mixed
+369,1374,Sugar Cane Decaf,Airship,,EA Decaf,1600.0,,,sugar,Mixed
+370,1377,Marco's,DOMA,,Washed,9999.0,,,"sugar,chocolate,cedar,sweet,spice,nutty,bright,brown sugar,walnut","Typica Peru,Typica Colombia,Pache,Caturra,Catuai,Castillo,Mundo Novo,Bourbon"
+371,1380,Carmela's,DOMA,,Washed,9999.0,,,"caramel,sugar,almond,chocolate,brown sugar,smooth,dark chocolate","Caturra,Typica Guatemala,Castillo,Mundo Novo,Pache,Colombia"
+372,1400,No.7 House Blend,Boxcar,,Washed,9999.0,Blend,Blend,"balance,sweet","Typica,Caturra"
+373,1401,Decaf Colombia,Boxcar,,EA Decaf,9999.0,Colombia,Americas,sugar,"Castillo,Colombia,Caturra"
+374,1402,Blendo Stupendo,Sterling Coffee Roasters,,Washed,1250.0,,,"roasted,caramel,chocolate","Caturra,Yellow Icatu"
+375,1412,Caffe Del Sol,Caffe Vita,,Washed,9999.0,,,smooth,"Typica,Bourbon"
+376,1413,Bistro Blend,Caffe Vita,,Washed,1000.0,Blend,Blend,"milk chocolate,cashew,caramel,milk,smooth,chocolate","Bourbon,Typica"
+377,1414,Queen City,Caffe Vita,,Washed,1200.0,,,"light,balance,roasted,complex","Typica,Bourbon"
+378,1415,Caffe Luna,Caffe Vita,,Washed,1500.0,,,light,"Typica,Bourbon"
+379,1416,Theo Blend,Caffe Vita,,Washed,1500.0,Blend,Blend,"chocolate,smooth","Typica,Bourbon"
+380,1426,Sumatra Gayo River,Caffe Vita,,Wet-hulled,1300.0,,,soil,"Ateng,Tim Tim,Typica Bergendal"
+381,1430,Dharma Espresso Blend,Temple,,Washed,1000.0,Blend,Blend,"caramel,dried fruit,milk,berry,creamy,pecan,nutty,almond,cocoa",Various
+382,1450,Three Pillars,Temple,Blend,Pulp Natural,1200.0,Blend,Blend,"sweet,brown sugar,sugar,cream,cream,cocoa,bittersweet cocoa,milk,dried fruit","Catuai,Bourbon,Mixed"
+383,1460,Cold Front Signature Blend,PT's Coffee Roasting Co.,,Washed,9999.0,Blend,Blend,"maple syrup,sweet,fruity,syrup,round,creamy,caramel,syrup,lingering,grape,chocolate,smooth,blackberry",Various
+384,1461,Ad Astra Signature Blend,PT's Coffee Roasting Co.,,Washed,9999.0,Blend,Blend,"chocolate,lingering,bittersweet chocolate,roasted,sugar,dark chocolate,cola,balance,sweet",Various
+385,1462,John Brown Signature Blend,PT's Coffee Roasting Co.,,Washed,9999.0,Blend,Blend,"chocolate,sweet,juicy,cherry,dark chocolate,black cherry,tobacco",Various
+386,1463,Flor Del Sol Signature Blend,PT's Coffee Roasting Co.,,Washed,9999.0,Blend,Blend,"caramel,crisp,sweet,fruity,balance,chocolate,silky",Various
+387,1464,Flatlander Signature Blend,PT's Coffee Roasting Co.,,Washed,9999.0,Blend,Blend,"almond,nutty,chocolate,bittersweet chocolate,tangerine,caramel,round,sweet,roasted",Mixed
+388,1465,Southpaw Espresso,PT's Coffee Roasting Co.,,Washed,9999.0,,,"peach,spice,floral,caramel,sugar,sweet,clean",Various
+389,1466,Flying Monkey Espresso,PT's Coffee Roasting Co.,,Washed,9999.0,,,"smooth,chocolate,sweet,graham cracker,honey,milk",Various
+390,1467,The Waverly,Joe Coffee,Brazil: Veloso Coffee; Peru: Cenfrocafe Co-Op,Washed,1200.0,Blend,Blend,balance,"Bourbon,Pache,Typica,Red Catuai,Caturra"
+391,1469,Organic Espresso,Caffe Vita,,Washed,1200.0,,,,"Bourbon,Typica"
+392,1470,Organic French Roast,Caffe Vita,,Washed,1500.0,,,"sweet,roasted,caramel","Bourbon,Typica"
+393,1471,Novacella Decaf,Caffe Vita,,EA Decaf,1000.0,,,,"Typica,Bourbon"
+394,1472,Owl's Howl,Sight Glass,,Washed,9999.0,,,,Various
+395,1473,Organic Crown Point,Sight Glass,,Washed,9999.0,,,milk,Various
+396,1474,Blueboon,Sight Glass,,Washed,9999.0,,,,Various
+397,1475,Banner Dark,Sight Glass,,Washed,9999.0,,,,Various
+398,1476,Organic Toketee,Sight Glass,,Washed,9999.0,,,,Various
+399,1477,The Core Espresso,Highwire,,Washed,9999.0,,,"sweet,milk,cherry,caramel,crisp,creamy,chocolate,raisin",Arabica
+400,1478,Tightrope,Highwire,,Washed,9999.0,,,"crisp,delicate,raw,sugar,balance,fruity,chocolate,raspberry,clean",Arabica
+401,1480,Bauhaus,Highwire,,Washed,9999.0,,,"bittersweet chocolate,chocolate,sweet,cookie",Arabica
+402,1481,After Hours Decaf,Highwire,,EA Decaf,9999.0,,,,Arabica
+403,1487,"Bella Carmona, Guatemala",Highwire,,Washed,1575.0,Guatemala,Americas,"caramel,sweet,lime,full body,chocolate,blackberry,bright","Caturra,Bourbon"
+404,1493,Colombia La Primavera Decaf,Gimme!,,EA Decaf,9999.0,Colombia,Americas,"molasses,sugar,sweet,silky,brown sugar","Caturra,Bourbon,Castillo"
+405,1500,Organic Driftless,Wonderstate,,Washed,9999.0,,,"graham cracker,lingering,cocoa,roasted,sweet",Various
+406,1501,Organic Off Grid,Wonderstate,,Washed,9999.0,,,"chocolate,smoky,super,sugar",Various
+407,1502,Organic Big Dipper,Wonderstate,,Washed,9999.0,,,"chocolate,round,bittersweet chocolate",Various
+408,1521,Hunky Dory Decaf,Sight Glass,,EA Decaf,9999.0,,,balance,Various
+409,1526,Espresso Novo,Novo,,Washed,9999.0,,,"caramel,blueberry,balance,sweet",Various
+410,1532,Bird Rock Blend,Bird Rock,,Washed,1400.0,Blend,Blend,spice,Heirlooms
+411,1552,Guatemala Finca Nuevo Vinas,Caffe Vita,Keller,Washed,1350.0,Guatemala,Americas,bright,"Pacamara,Caturra,Catuai"
+412,1565,The Daily,Joe Coffee,"Brazil: Veloso Coffee; Colombia: El Paraiso, Villa Esperanza",Washed,1066.0,Blend,Blend,"chocolate,milk,milk chocolate,dried fruit,super","Red Catuai,Catuai,Caturra,Colombia"
+413,1566,Benchmark,Joe Coffee,,Washed,1200.0,,,"smooth,milk,sweet,almond,roasted,molasses,chocolate,dark chocolate",Bourbon
+414,1567,Nightcap House Decaf,Joe Coffee,,EA Decaf,1000.0,,,"cocoa,honey,dried fruit","Red Catuai,Yellow Catuai"
+415,1585,Hundred Mile,Stumptown,,Washed,9999.0,,,"sweet,milk",Various
+416,1602,Four Leftys,Novo,,Washed,9999.0,,,"sweet,nutty,bright",Various
+417,1603,Espresso del Fuego,Novo,,Washed,9999.0,,,creamy,Various
+418,1604,Novo Decaf,Novo,,EA Decaf,9999.0,,,,Mixed
+419,1605,Decaf Espresso Novo,Novo,,EA Decaf,9999.0,,,milk,Various
+420,1616,Hair Bender,Stumptown,,Washed,9999.0,,,"complex,sweet",Various
+421,1617,House Blend,Stumptown,,Washed,9999.0,Blend,Blend,"sweet,roasted,light",Various
+422,1618,Holler Mountain,Stumptown,,Washed,9999.0,,,"bright,caramel,crisp,hazelnut,citrus,creamy",Various
+423,1631,The Chronic,DOMA,,Washed,9999.0,,,"spice,chocolate,walnut,cedar","Bourbon,Caturra,Catuai"
+424,1638,Pale Rider Decaf,Revelator,,EA Decaf,9999.0,,,"apple,caramel,milk,milk chocolate,chocolate,red apple,clean,sweet","Caturra,Castillo,Bourbon"
+425,1660,ORG Decaf Espresso,Klatch,,EA Decaf,9999.0,,,"clean,cinnamon,milk,creamy,sweet",Various
+426,1733,French Roast,Stumptown,,Washed,9999.0,,,"smoky,milk",Various
+427,1782,Tarrazu,George Howell,,Washed,1550.0,,,smooth,"Caturra,Catuai"
+428,1784,Tarrazu French,George Howell,,Washed,1550.0,,,"milk,cola,caramel,walnut","Catuai,Caturra"
+429,1785,Tarrazu Espresso,George Howell,,Washed,1550.0,,,"smooth,roasted","Catuai,Caturra"
+430,1786,Alchemy,George Howell,,Washed,1200.0,,,"sweet,milk,bright,raspberry,clean,chocolate","Caturra,Catuai"
+431,1841,Virgil's,DOMA,,Washed,9999.0,,,"light,cedar,caramel,smooth,chocolate,dark chocolate",Bourbon
+432,1877,Gotham Blend,Irving Farm,The Salaverria family,Washed,1350.0,El Salvador,Americas,"sugar,smoky","Catuai,Bourbon"
+433,1902,Endless Summer,Equator,,Washed,9999.0,,,"juicy,bright",Various
+434,1904,Eye Of The Tiger Espresso,Equator,,Washed,9999.0,,,"fruity,juicy,round,citrus",Various
+435,1908,Ethiopia Sidama Ardi,Equator,Nardos Coffee,Natural,1775.0,Ethiopia,Africa,"lavender,sweet,fruity,smooth,clean,lemon,vanilla,meyer lemon",Heirlooms
+436,1925,Space Cadet,Atomic,,Washed,1200.0,,,"clementine,sugar,sweet,cherry,smooth,nougat,burnt sugar","Heirlooms,Caturra,Typica"
+437,1928,French Roast,Atomic,,Wet-hulled,1450.0,,,"milk,chocolate,spice,earthy","Typica,Bourbon,Catimor"
+438,1960,Ethiopia Kochere,Airship,,Natural,1850.0,Ethiopia,Africa,"berry,smooth,complex,fruity,sweet",Heirlooms
+439,2007,Emporium House Blend,Cuvee,,Washed,9999.0,Blend,Blend,complex,"Pacas,Caturra,Catuai,Bourbon,Pache"
+440,2008,Jackalope Decaf,Cuvee,,EA Decaf,1900.0,,,savory,"Caturra,Colombia"
+441,2009,Stella Cometa Espresso Blend,Cuvee,,Washed,1150.0,Blend,Blend,"clean,light","Pacas,Caturra,Pache,Yellow Catuai,Yellow Bourbon"
+442,2010,Karmadillo Dark Espresso Blend,Cuvee,,Washed,1150.0,Blend,Blend,"milk,chocolate","Crowned Garuda,Heirlooms,Yellow Catuai,Caturra,Pache,Yellow Bourbon"
+443,2011,West Pole Dark Roast,Cuvee,,Washed,9999.0,,,"roasted,spice,molasses,delicate","Colombia,Caturra"
+444,2116,Antigua La Flor,George Howell,La Flor Del Cafe,Washed,1750.0,Guatemala,Americas,"nutty,bright,tangerine,sweet,chocolate","Bourbon,Caturra,Catuai"
+445,2183,Milwaukee Rockstar Blend,Anodyne Coffee Roasters,Limoncillo Estate,Washed,800.0,Nicaragua,Americas,"light,roasted,dark chocolate,chocolate,spice",Various
+446,2188,Mind Tonic Espresso,Anodyne Coffee Roasters,Multiple,Washed,1550.0,Blend,Blend,"citrus,almond,milk,milk chocolate,cherry,smooth,chocolate,roasted,juicy,round",Various
+447,2204,Black Apple Espresso,Airship,,Washed,1300.0,,,"apple,juicy,cherry",Mixed
+448,2297,Amsterdam,Joe Coffee,The Veloso Family,Natural,9999.0,Brazil,Americas,"sweet,smooth,milk,toffee",Red Catuai
+449,2322,The Bowery,Oren's,,Washed,9999.0,,,"milk,complex,sweet,sugar,roasted,cinnamon,chocolate","Caturra,Castillo"
+450,2324,Central Park,Oren's,,Washed,9999.0,,,"milk,milk chocolate,molasses,chocolate,smooth,full body,plum,complex",Caturra
+451,2325,Two Bridges,Oren's,,Washed,9999.0,,,"balance,sweet,citrus,toffee,soft,smooth","Castillo,Bourbon,Caturra"
+452,2327,Colombian,Oren's,,Washed,9999.0,,,"apple,full body,clean,green apple,smooth,crisp","Castillo,Caturra"
+453,2329,Costa Rica La Minita,Oren's,,Natural,9999.0,,,"milk chocolate,plum,milk,honey,chocolate",Caturra
+454,2331,Beowulf Blend,Oren's,,Washed,9999.0,Blend,Blend,sweet,"Caturra,SL28,Castillo,Kent"
+455,2339,Old World Venezia,Klatch,,Washed,9999.0,,,"chocolate,smooth,dark chocolate,spice",Various
+456,2340,Dark Thunder,Klatch,,Washed,9999.0,,,"smoky,sweet",Various
+457,2341,Klatch's Best House Blend,Klatch,,Washed,9999.0,Blend,Blend,"smooth,juicy,orange,balance,round,chocolate",Various
+458,2342,ORG Amazon Blend,Klatch,,Washed,9999.0,Blend,Blend,"dark chocolate,sugar,sweet,caramel,smooth,chocolate,nutty,brown sugar",Various
+459,2367,Sumatra Kerinci Honey,Airship,,Honey,1400.0,,,"floral,bright,clean,plum,grapefruit,honey,round,fruity,sweet",Mixed
+460,2396,Kensington Blend,ReAnimator Coffee Roasters,,Natural,9999.0,Blend,Blend,"milk,cocoa,roasted,walnut,creamy","Catuai,Heirlooms"
+461,2417,Ecuador Bosque de Marfil,Huckleberry,Multiple,Washed,1550.0,Ecuador,Americas,"brown sugar,super,apple,sweet,sugar,complex,cherry,black cherry,molasses,green apple","Bourbon,Caturra,Typica"
+462,2436,9 to 5,Revelator,,Washed,9999.0,,,"black cherry,cherry,caramel",Arabica
+463,2438,Southern Gothic,Quills,,Washed,900.0,,,"creamy,caramel,roasted,chocolate","Typica,Bourbon,Caturra,Catuai,Colombia"
+464,2525,Cold Brew Blend,Irving Farm,,Washed,9999.0,Blend,Blend,"complex,caramel,berry,smooth,molasses,chocolate",
+465,2526,Highline Blend,Irving Farm,,Washed,9999.0,Blend,Blend,"light,delicate,caramel,bright,apple,sweet",Mixed
+466,2544,Great Heights,Joe Coffee,The Veloso Family,Natural,1066.0,Brazil,Americas,"bright,nutty,cherry,cedar,sweet,light",Red Catuai
+467,2547,Peru Rancho Sabancaya,Caffe Vita,,Washed,1400.0,Peru,Americas,"sugar,cedar,brown sugar,nougat,tobacco,caramel,blackberry,dark chocolate,chocolate","Pache,Catuai,Caturra,Villa Sarchi,Catimor,Bourbon"
+468,2615,"Papua New Guinea, Baroida Estate, Eastern Highlands",Sight Glass,Colbran,Washed,1775.0,Papua New Guinea,Oceania,"chocolate,citrus,savory,floral","Bourbon,Arusha,Mundo Novo"
+469,2697,Guatemala Hunapu,Kuma,Multiple,Washed,1650.0,Guatemala,Americas,"bright,orange zest,cherry,smooth,soil,orange",Red Bourbon
+470,2719,Kindred Blend,AKA,,Washed,1700.0,Blend,Blend,"chocolate,orange,cedar",Caturra
+471,2731,Matalapa,George Howell,Vickie Ann Dalton de Diaz,Washed,1300.0,El Salvador,Americas,"brown sugar,sugar,nougat","Bourbon,Pacas"
+472,2749,Ethiopia Worka Chelbesa,Huckleberry,Chelbesa Washing Station,Washed,1975.0,Ethiopia,Africa,"floral,hibiscus,bright,candy,lemonade,tea,sweet,fruity",Ethiopia Landraces
+473,2781,1320,City of Saints,,Washed,9999.0,,,"sugar,soft,chocolate,cream,cream,walnut,roasted,apple","Catuai,Caturra,Bourbon"
+474,2782,Citizen,City of Saints,,Washed,1200.0,,,"caramel,crisp,sweet,citrus,chocolate","Bourbon,Typica,Mundo Novo,Caturra"
+475,2784,Denizen,City of Saints,,Washed,1600.0,,,"bright,juicy,complex,round,smooth,caramel","Heirlooms,Bourbon,Typica"
+476,2785,Woodsman,City of Saints,,Washed,1000.0,,,"milk,roasted,slick","Caturra,Bourbon,Catimor,Mundo Novo"
+477,2792,Blend,Necessary,,Washed,9999.0,Blend,Blend,creamy,"Castillo,Bourbon,Colombia,Caturra"
+478,2793,Colombia,Necessary,Divino Nina and ASOCAFOR Associations,Washed,1500.0,Colombia,Americas,nutty,"Colombia,Castillo,Caturra"
+479,2794,Burundi,Necessary,,Washed,1650.0,Burundi,Africa,"cocoa,milk,raisin",Bourbon
+480,2795,Ethiopia,Necessary,,Washed,1950.0,Ethiopia,Africa,"fruity,soft,lemon,plum",
+481,2811,Slow Burn,Red Bay,,Natural,1200.0,,,"molasses,smooth,prune,raisin,dark chocolate,milk,complex,fig,chocolate","Red Catuai,Bourbon Gayo"
+482,2816,Coltrane,Red Bay,"Mary Bolaos, Sergio Mosquera, Rodelfi Betancourt, Juan  Medina, Dilio Pechene, and Linares Paz",Washed,1685.0,Colombia,Americas,"smooth,sweet,complex,juicy,milk,milk chocolate,dark chocolate,grape,chocolate,lingering,orange,plum,citrus,hazelnut","Colombia,Tabi,Castillo"
+483,2830,King's Prize,Red Bay,,Washed,2025.0,,,"floral,tangerine,peach,jasmine,apricot,honeysuckle,tropical fruit",Heirlooms
+484,2832,Funky Chicken,Red Rooster,,Washed,1250.0,,,"cream,cream,earthy,sweet,clean,bright,plum","Catuai,Catimor,Caturra"
+485,2833,4 & 20 French Roast,Red Rooster,,Washed,1250.0,,,"cinnamon,balance","Mundo Novo,Typica,Caturra,Catimor"
+486,2834,Old Crow Cuppa Joe,Red Rooster,,Washed,1220.0,,,"sweet,creamy,berry","Typica,Mundo Novo,Caturra,Catimor"
+487,2835,Farmhouse Breakfast Blend,Red Rooster,,Washed,1220.0,Blend,Blend,"caramel,sweet,roasted,meyer lemon,nutty,lemon","Catuai,Catimor,Mundo Novo,Caturra"
+488,2838,Honduras COMSA,Red Rooster,Mujale Association,Washed,1625.0,Honduras,Americas,"sweet,dark chocolate,chocolate,smooth","Catimor,Caturra,Catuai"
+489,2839,Organic Nicaragua,Red Rooster,Castillo family,Washed,1325.0,Nicaragua,Americas,"chocolate,roasted,smoky,sweet","Catuai,Catimor,Bourbon,Caturra"
+490,2863,Rise and Shine,Greater Goods,Multiple,Washed,1400.0,,,"smooth,super,bitter,sweet,dark chocolate,chocolate","Catuai,Castillo,Caturra"
+491,2864,Take Me Home (Costa Rica),Greater Goods,Hermanos Solis,Honey,1800.0,Costa Rica,Americas,"honey,meyer lemon,caramel,milk,hazelnut,vanilla,nutty,orange,lemon",Red Catuai
+492,2867,Good Vibes (Brasil),Greater Goods, Fazenda Ambiental Fortaleza (FAF),Natural,1270.0,Brazil,Americas,"clean,cocoa,peanut,complex,buttery","Red Catuai,Yellow Catuai,Icatu"
+493,2868,Colombia Coffee For Peace,Klatch,,Washed,9999.0,Colombia,Americas,"nectarine,cocoa,bright,sugar,floral,lime,clean,chocolate,lemon,smooth,spice",Castillo
+494,2878,Riqueza Dark Blend,Temple,,Washed,9999.0,Blend,Blend,"sugar,cream,cream,spice,milk,sweet,cocoa",Mixed
+495,3014,French Roast,Oren's,,Washed,9999.0,,,"sweet,caramel","Caturra,Colombia"
+496,3015,Italian Roast,Oren's,,Washed,9999.0,,,"sweet,raisin,chocolate","Bourbon,Caturra,Colombia"
+497,3019,Bosley,City of Saints,,Washed,1300.0,,,"sweet,milk",Heirlooms
+498,3079,Tekt┼ìn,Blueprint Coffee Roasters,,Washed,1600.0,,,balance,"Heirlooms,Ethiopia Landraces,Bourbon"
+499,3139,Pick-Me-Up,Greater Goods,,Washed,1760.0,,,"apple,complex,chocolate,stone fruit,honey,floral","Typica,Tabi,Geisha,Colombia,Caturra,Ethiopian Bourbon"
+500,3149,Stimulate,Greater Goods,Multiple,Washed,1700.0,Blend,Blend,"chocolate,sugar,brown sugar,dark chocolate,almond,roasted",Various
+501,3159,Newsstand Blend,Sparrows,,Washed,9999.0,Blend,Blend,"orange,smooth,juicy,sweet,round,caramel,chocolate,dark chocolate","Mayaguez,Bourbon"
+502,3160,H.O.M.E.S. Blend,Sparrows,,Washed,9999.0,Blend,Blend,,"Typica,Bourbon,Caturra"
+503,3161,Dirty Bird,Sparrows,,Washed,9999.0,,,milk,"Bourbon,Typica,Castillo"
+504,3162,All Seasons Blend,Sparrows,,Washed,9999.0,Blend,Blend,"clean,sweet,honey,smooth,chocolate,cherry,creamy,round","Typica,Heirlooms,Bourbon"
+505,3163,Colombia Cauca,Sparrows,,Washed,9999.0,Colombia,Americas,"juicy,crisp,cherry,citrus,nutty","Castillo,Typica,Bourbon"
+506,3189,Organic Prism Blend,Wonderstate,,Washed,9999.0,Blend,Blend,"balance,cocoa,strawberry,fruity",Various
+507,3190,Penrose,Blueprint Coffee Roasters,Antonio Marcos do Carmo,Washed,9999.0,,,nutty,"Colombia,Castillo,Yellow Catuai,Caturra"
+508,3199,Civitas,Huckleberry,,Washed,1300.0,,,"raisin,sugar,dark chocolate,chocolate,toffee",Arabica
+509,3203,Decaf Inza,AKA,,EA Decaf,1850.0,,,"brown sugar,red grape,sugar,complex,grape","Caturra,Castillo,Colombia"
+510,3209,Decaf Cauca,Quills,,EA Decaf,1650.0,,,"smooth,lemon,complex,sugar,brown sugar,nougat","Castillo,Caturra,Colombia"
+511,3253,La Familia Guarnizo - 5 lb bag,Joe Coffee,Guarnizo Family,Washed,9999.0,,,"sweet,sugar,pecan,tangerine",Caturra
+512,3255,Great Heights - 5 lb bag,Joe Coffee,The Veloso Family,Natural,1066.0,Brazil,Americas,"nutty,sweet,cedar,bright,light,cherry",Red Catuai
+513,3257,H.O.M.E.S. - 5 lb bag,Sparrows,,Washed,9999.0,,,,"Bourbon,Typica,Caturra"
+514,3260,French Roast - 5 lb bag,Atomic,,Wet-hulled,1300.0,,,"earthy,chocolate,spice,milk","Catimor,Bourbon,Typica"
+515,3266,Eye of the Tiger - 5 lb bag,Equator,,Washed,9999.0,,,"citrus,round,juicy,fruity",Various
+516,3272,Flor del Sol - 5 lb bag,PT's Coffee Roasting Co.,,Washed,9999.0,,,"crisp,caramel,balance,silky,sweet,fruity,chocolate",Various
+517,3297,Blue Boy,Methodical,,Washed,1524.0,,,"round,sweet,apple,crisp,smooth,soft,green apple,bright","Bourbon,Caturra"
+518,3303,Stargazer,Gimme!,,Washed,9999.0,,,"bright,juicy,fruity,sweet,light,complex","Pache,Typica,Caturra,Bourbon"
+519,3305,Guatemala Ixlama,Methodical,Multiple,Washed,1677.0,Guatemala,Americas,"clean,apple,caramel,round,bright,green apple,chocolate,crisp,fruity","Caturra,Bourbon"
+520,3306,Play Nice,Methodical,,Washed,1800.0,,,"light,bright,sweet,dried cranberry,smooth,orange,juicy,cranberry,milk,chocolate,dried cranberry,milk chocolate","Castillo,Caturra"
+521,3307,Colombia Cauca - Decaf,Methodical,,EA Decaf,1650.0,Colombia,Americas,"fruity,sweet",Castillo
+522,3308,Costa Rica La Pastora,Methodical,,Washed,1550.0,,,"clean,juicy,smooth","Catuai,Caturra"
+523,3328,Organic French,Portland,,Washed,9999.0,,,"sweet,roasted,clean,milk","Mundo Novo,Typica,Catuai,Bourbon"
+524,3329,Organic Tanagers Song,Portland,,Washed,9999.0,,,"milk,clean,milk chocolate,delicate,light,berry,crisp,sweet,chocolate,plum","Bourbon,Catuai,Typica,Mundo Novo"
+525,3330,Steel,Portland,,Washed,9999.0,,,"cocoa,toffee,super,smooth,cherry,sweet","Typica,Castillo,Bourbon,Arusha"
+526,3331,Guatemala,Portland,Miguelina Villatoro,Washed,9999.0,Guatemala,Americas,"raisin,molasses,chocolate,fruity,cinnamon","Bourbon,Pacamara"
+527,3333,Colombia,Portland,,Washed,9999.0,Colombia,Americas,"berry,cherry,tropical fruit",Castillo
+528,3339,Big Riff,Metric,,Washed,1500.0,,,"green apple,chocolate,plum,creamy,apple,sweet,dried fruit","Caturra,Bourbon"
+529,3340,Colorized,Metric,,Washed,1800.0,,,"juicy,candy,lingering,roasted,berry,tropical fruit",Various
+530,3341,Colossus,Metric,,Washed,1500.0,,,"spice,vanilla,chocolate,smooth,dark chocolate,milk,creamy,round,sugar","Caturra,Bourbon"
+531,3342,En Masse,Metric,,Washed,1500.0,,,"caramel,candy,sweet,complex,pear","Heirlooms,Colombia,Caturra"
+532,3343,Seismic,Metric,,Washed,1500.0,,,"lemon,sweet,smooth,bright","Caturra,Bourbon,Catuai"
+533,3345,Decaf Colombia,Metric,,EA Decaf,1700.0,Colombia,Americas,"apple,walnut,green apple,molasses,cedar,clean,crisp,chocolate,dark chocolate","Tabi,Bourbon,Caturra,Colombia,Maragogipe"
+534,3369,Primary Series: Blue,Blueprint Coffee Roasters,Honduras - COMSA CoOp / Brazil - Moscardini Family / Colombia - smallholder farms,Natural,1100.0,Blend,Blend,"roasted,cocoa,caramel,round","Castillo,Bourbon,Mundo Novo,Catuai,Caturra,Yellow Catuai,Tupi,Typica"
+535,3419,Capital Cold Brew,Temple,,Washed,9999.0,,,"cherry,bright,lingering,citrus zest,milk chocolate,milk,nutty,sweet,citrus,chocolate,smooth",Mixed
+536,3430,Gamatui Washed,Broadsheet,Gamatui Community,Washed,1900.0,Uganda,Africa,"macadamia nut,clean,round,buttery","SL34,SL14,Bourbon"
+537,3439,Decaf Eye of the Tiger,Equator,,EA Decaf,9999.0,,,"dried cherry,cinnamon,candy,plum,cherry,sweet",
+538,3446,Joven Cauca,Sparrows,CAFINORTE Cooperative,Washed,9999.0,,,"sweet,citrus,chocolate,smooth,cherry,milk chocolate,milk,flower,cola",Bourbon
+539,3454,Gamatui Community,Blueprint Coffee Roasters,Sipi Falls Mill,Natural,1900.0,Uganda,Africa,"toffee,fruity","SL14,Bourbon,SL34"
+540,3463,Swiss Water Process Decaf Colombia,Oren's,,Swiss Water Decaf,9999.0,Colombia,Americas,"chocolate,cherry,full body,sour,cedar,bright",
+541,3466,Swiss Water Process Decaf Sumatra,Oren's,,Swiss Water Decaf,9999.0,Indonesia,Asia,"smooth,sweet,creamy,apricot,clean",
+542,3467,Swiss Water Process Decaf French Roast,Oren's,,Swiss Water Decaf,9999.0,,,roasted,
+543,3473,Dominic's Organic Cold Brew Blend,DOMA,,Washed,9999.0,Blend,Blend,"vanilla,sugar,crisp,caramel,smooth,cream,cream","Pache,Caturra,Catuai,Castillo,Bourbon,Catimor,San Ramon,Typica,Colombia"
+544,3482,Chin Up,Good Citizen,Rigoberto Herrera,Washed,1400.0,Colombia,Americas,"milk,almond,dark chocolate,cherry,lemon zest,smooth,chocolate,lemon,milk chocolate","Caturra,Colombia,Catuai,Mandela"
+545,3483,Hang Tough,Good Citizen,,Washed,1300.0,,,"almond,lemon,dark chocolate,roasted,full body,buttery,chocolate,lemon zest,toffee","Caturra,Catuai"
+546,3484,Up & At 'Em,Good Citizen,,Washed,1250.0,,,"juicy,fruity,sweet,melon,caramel,tangerine,grape,green grape,strawberry,bright","Caturra,Ethiopia Landraces,Jarc Selections,Peaberry"
+547,3485,Stay Golden,Good Citizen,,Washed,1400.0,,,"melon,cherry,juicy,chocolate,apple","Ethiopia Landraces,Caturra,Jarc Selections"
+548,3486,Easy Does It - Decaf,Good Citizen,,EA Decaf,1650.0,,,"caramel,sweet,creamy,sugar,toffee,lemon,cherry","Colombia,Castillo,Caturra"
+549,3487,Palmera,Good Citizen,,Washed,1500.0,,,"clean,cherry,brown sugar,sugar","Caturra,Colombia,Castillo"
+550,3488,Paubrasil,Good Citizen,,Natural,1100.0,,,"full body,creamy,chocolate,milk chocolate,milk,roasted",Catuai
+551,3489,Benti Nenka,Good Citizen,Eyasu Worasag,Washed,2030.0,Ethiopia,Africa,"delicate,candy,blackberry,fruity,juicy,peach,cotton candy,lime","Jarc Selections,Ethiopia Landraces"
+552,3490,Estate La Esperanza,Good Citizen,Rigoberto Herrera,Washed,1595.0,Colombia,Americas,"juicy,fruity,kiwi,strawberry","Caturra,Mandela,Colombia"
+553,3526,Primary Series: Yellow,Blueprint Coffee Roasters,Multiple,Washed,900.0,Brazil,Americas,"bright,black tea,juicy,lemon,light,honey,tea","Tupi,Mundo Novo,Heirlooms"
+554,3527,Sumatra Takengon,Atomic,,Wet-hulled,1300.0,,,"cedar,earthy,chocolate,dark chocolate,full body,sweet","Bourbon,Typica,Caturra,Catimor"
+555,3536,Colombia La Virgen,City of Saints,InConexus ,Washed,1930.0,Colombia,Americas,"tea,green tea","Colombia,Caturra,Geisha,San Bernardo,Castillo,Tabi"
+556,3540,Konga,Irving Farm,Konga Cooperative ,Washed,1875.0,Ethiopia,Africa,"peach,super,flower,sweet,floral,candy,cantaloupe",Heirlooms
+557,3546,Uganda Sipi Falls Washed,Huckleberry,Sipi Falls Mill,Washed,1900.0,Uganda,Africa,"caramel,tangerine,bright,apricot,sweet,buttery,butterscotch","SL34,SL28"
+558,3550,Primary Series: Red,Blueprint Coffee Roasters,"Emilio Lopez Diaz, COMSA Cooperative",Washed,1220.0,Honduras,Americas,"green apple,apple,cherry,nutty","Catuai,Caturra,Typica,Bourbon"
+559,3559,Decaf Colombia Huila,City of Saints,,EA Decaf,9999.0,Colombia,Americas,"chocolate,molasses,sugar,cherry","Typica,Caturra"
+560,3565,French Roast,Bird Rock,,Washed,9999.0,,,"dark chocolate,roasted,cherry,chocolate,wood","Bourbon,Catuai,Caturra"
+561,3580,Angel BBs,Gimme!,,Washed,1400.0,,,"balance,fruity","Caturra,Castillo"
+562,3583,Pump House,Bird Rock,,Washed,9999.0,,,"caramel,fruity,light","Bourbon,Catimor,Caturra"
+563,3584,Little Italy Blend,Bird Rock,,Washed,9999.0,Blend,Blend,"hazelnut,chocolate,smooth,cherry,light,full body","Bourbon,Caturra,Pache"
+564,3607,Joven Burundi Turihamwe,Sparrows,Turihamwe,Washed,1750.0,Burundi,Africa,"sugar,brown sugar,vanilla,black tea,tea,cranberry,apricot",Bourbon
+565,3615,Burundi Kayanza,Sparrows,,Washed,1760.0,Burundi,Africa,"super,candy,cinnamon,citrus,bright,banana,savory,dried fruit,sweet,silky","Bourbon,Jackson,Mibirizi"
+566,3619,Larrea Blend,Verve,,Washed,1700.0,Blend,Blend,"bright,citrus,grapefruit,sweet,floral,honeysuckle","Arusha,Mundo Novo,Typica,Heirlooms"
+567,3626,Decaf Colombia,Sparrows,,EA Decaf,9999.0,Colombia,Americas,"citrus zest,nutty,toffee,super,cherry,citrus",Caturra
+568,3633,Monkey Bite Espresso,Bird Rock,,Washed,9999.0,,,"walnut,cocoa,milk",Various
+569,3652,Honduras Santa B├írbara Highlands,Gimme!,,Washed,1800.0,Honduras,Americas,"walnut,sweet","Pacas,Typica"
+570,3654,Huehuetenango Q'anil,City of Saints,Cooperativa Rio Azul,Washed,1100.0,Guatemala,Americas,"clean,fruity,toffee,apricot,sweet","Caturra,Catuai,Bourbon"
+571,3678,East Fourteenth,Red Bay,Sweet Unity Farms Co-op,Washed,1372.0,Tanzania,Africa,"fruity,full body,sweet",Bourbon
+572,3679,Carver's Dream,Red Bay,"Women of  Kinyovu  Cooperative, La Ceiba Cooperative",Washed,1500.0,Blend,Blend,"caramel,smooth,bright,cherry","Bourbon,Caturra"
+573,3686,Dark Roast Sumatra Gayo Mandiri,Anodyne Coffee Roasters,KSU Gayo Mandiri Cooperative,Wet-hulled,1450.0,,,earthy,"Bourbon,Tim Tim,Ateng"
+574,3696,San Ignacio,Passenger,,Washed,1675.0,,,"grapefruit,sweet","Bourbon,Caturra,Pache"
+575,3697,Marlenis Imbachi - 2019 Harvest,Passenger,Marlenis Imbachi,Washed,1650.0,Colombia,Americas,"green apple,pie,nutmeg,apple,juicy",Pink Bourbon
+576,3704,Brazil Cerrado,Gimme!,,Pulp Natural,960.0,Brazil,Americas,"roasted,smooth,nutty,walnut","Topazio,Mundo Novo,Bourbon,Yellow Catuai"
+577,3756,Monserrate,Irving Farm,,Washed,1800.0,,,"bright,caramel",Various
+578,3762,Prime Meridian,Equator,Multiple,Washed,910.0,Blend,Blend,"black cherry,chocolate,dark chocolate,bittersweet chocolate,cherry,caramel,sweet,almond,roasted,smooth,walnut","Catuai,SL28,Ruiru 11,Tupi,Caturra,K7,Bourbon,Mundo Novo,Castillo,Colombia,SL34"
+579,3765,Honduras COMSA Natural,Atomic,,Natural,1350.0,Honduras,Americas,"tropical fruit,creamy,sour,candy,watermelon,juicy","Caturra,Typica,Catuai,Bourbon"
+580,3774,Finca Cedral Alto Natural,Good Citizen,Jorge Vasquez,Natural,1850.0,,,"blueberry,cherry,dried blueberry,black cherry,soil",Catuai
+581,3776,Bright Minds,Greater Goods,Guatemala Coffee Kids Program,Washed,1550.0,Guatemala,Americas,"nougat,cherry,milk,lingering,toffee,chocolate,sweet,orange,milk chocolate,melon,cola","Caturra,Bourbon,Catuai,Catimor,Pache"
+582,3835,Hold Fast,Good Citizen,,Washed,9999.0,,,"spice,sweet",Various
+583,3836,Buckle Down,Good Citizen,,Washed,1200.0,,,"cedar,cherry,spice,fig",Various
+584,3837,Kovachii,Good Citizen,,Washed,1750.0,,,"sweet,bright,plum,berry,juicy",Various
+585,3838,La Concordia,Good Citizen,,Washed,1200.0,,,"honey,chocolate,cherry","Caturra,Typica,Bourbon"
+586,3839,Nueva Segovia,Good Citizen,,Washed,1350.0,,,roasted,"Maragogipe,Pacamara"
+587,3842,Solaris,Maquina,Multiple,Washed,1500.0,,,"juicy,sweet,pear,clean,tangerine,bright","Colombia,Bourbon,Caturra,Pink Bourbon"
+588,3852,Bom Senso,Huckleberry,,Natural,9999.0,,,"almond,caramel,roasted","Mundo Novo,Bourbon"
+589,3853,Flores Belas,Huckleberry,,Natural,9999.0,,,"nutty,orange,dried fruit,chocolate,milk,milk chocolate,caramel","Mundo Novo,Bourbon,Arabica"
+590,3877,Guduba Light,George Howell,,Washed,2018.0,,,"clean,floral,sweet",Ethiopia Landraces
+591,3909,Gunung Tujuh,Sterling Coffee Roasters,,Washed,1450.0,,,"pie,pecan,caramel,cedar,custard,light,tangerine,earthy,sugar,citrus",Ateng
+592,3912,Sumatra Gayo Highlands,Gimme!,,Wet-hulled,1350.0,,,"earthy,milk,soil,cherry","Typica,Catimor,Bourbon,Caturra"
+593,3947,High Five Blend,Sparrows,,Washed,9999.0,Blend,Blend,orange,"Caturra,Bourbon"
+594,3972,Nebula - a Dark Roast,Mother Tongue Coffee,,Washed,9999.0,,,"sweet,super,honey",Mixed
+595,3974,Mugshots - a Light Roast,Mother Tongue Coffee,,Washed,9999.0,,,hazelnut,Mixed
+596,3977,Brazil - Dulce Signature,Methodical,Maria Helena Dumont and Selma Veira,Natural,950.0,Brazil,Americas,"nutty,honey,roasted,sweet,caramel,dark chocolate,smooth,hazelnut,chocolate","Mundo Novo,Yellow Catuai"
+597,3992,Starr Hill Stout Blend,Red Rooster,,Washed,9999.0,Blend,Blend,"caramel,creamy,complex,sweet,sugar,cocoa,chocolate,cream,cream,smooth,dark chocolate,milk",Mixed
+598,3999,"Et Tu, Dame?",Gimme!,Dame Dabaye,Washed,9999.0,Ethiopia,Africa,"blueberry,cherry,strawberry,fruity,floral,lime,bright",Heirlooms
+599,4001,Big City,Joe Coffee,The Veloso Family,Natural,1066.0,Brazil,Americas,"honeycomb,burnt sugar,chocolate,dark chocolate,sweet,sugar,roasted",Red Catuai
+600,4014,MotherLand,Red Bay,Ndago Cooperative ,Washed,9999.0,Burundi,Africa,"cherry,green apple,apple,round,soil",Bourbon
+601,4019,Valle Verde,Good Citizen,,Washed,1650.0,,,"cranberry,apricot","Catimor,Typica,Caturra,Bourbon"
+602,4025,Brazil Klatch Diamond Reserve,Klatch,,Natural,9999.0,Brazil,Americas,"black cherry,bright,vanilla,fruity,blood orange,orange,sweet,cherry,chocolate","Red Catuai,Yellow Catuai"
+603,4026,"Bella Vista Women's Group - Chiapas, Mexico",Mother Tongue Coffee,Rosalba Cifuentes,Washed,1600.0,Mexico,Americas,"lemonade,hazelnut,lingering,candy","Bourbon,Catimor,Caturra"
+604,4030,La Piramide,Tandem,,Washed,1850.0,,,"super,delicate,clean,round,light,sweet,complex,citrus","Typica,Caturra"
+605,4032,El Salvador Finca Hungria,Red Rooster,,Washed,9999.0,,,"cedar,smooth,oak,sweet,honeycomb","Catimor,Pacas,Caturra,Bourbon"
+606,4039,Finca El Limonar,Panther,Rosa Maria Ovalle,Washed,1700.0,Guatemala,Americas,"plum,roasted,almond,round,creamy,milk,milk chocolate,cherry,chocolate,bright",Caturra
+607,4041,Mejor,Panther,Multiple,Washed,1800.0,Colombia,Americas,"chocolate,citrus,juicy,bright,milk,milk chocolate,fruity,sweet,cherry,silky,nutty",Castillo
+608,4048,Cabot Street,Atomic,,Washed,1400.0,,,"jam,grape,apple,fruity,bright,green grape","Colombia,Heirlooms"
+609,4050,San Sebastian,Novo,Occicafe Growers Association,Washed,1700.0,Honduras,Americas,"almond,banana,cherry","Colombia,Caturra"
+610,4063,French Roast,Portland,Ngorongoro Coffee group ,Washed,1800.0,Tanzania,Africa,"roasted,sweet,milk,clean,super,caramel",Kent
+611,4066,Li'l Devils,Gimme!,,Washed,1750.0,,,"sweet,caramel,smooth","Castillo,Colombia,Caturra"
+612,4067,Kickstart,Greater Goods,,Washed,1300.0,,,"sugar,rose,smooth,chocolate,dark chocolate,caramel,brown sugar","Catuai,Arara,Castillo,Caturra"
+613,4103,Soulmate,Alma Coffee,Leticia Lopez Hutchins,Washed,1400.0,Honduras,Americas,"milk,cherry,smooth,chocolate,candied,sugar,sweet,creamy,walnut,clementine,cream,cream,milk chocolate",Parainema
+614,4104,Passion,Alma Coffee,Al Lopez,Washed,1000.0,,,"orange,sweet,cacao,sugar,orange zest,brown sugar,hazelnut,smooth,milk,caramel",Parainema
+615,4105,Enchanted,Alma Coffee,Al Lopez,Washed,1000.0,,,"pecan,creamy,dark chocolate,lingering,molasses,chocolate",Parainema
+616,4107,Natural Process,Alma Coffee,Leticia Lopez Hutchins,Natural,1400.0,Honduras,Americas,"rose,strawberry,raspberry,cherry,pineapple,complex,jam",Parainema
+617,4115,Essence,Alma Coffee,Leticia Lopez Hutchins,Washed,1400.0,Honduras,Americas,"smooth,dark chocolate,chocolate,caramel,balance,almond,roasted",Parainema
+618,4175,Peru Cajamarca Fair Trade Organic,Equator,"Salomon & Andres Bermeo, La Prosperidad de Chirinos",Washed,1700.0,Peru,Americas,"raisin,vanilla,apple,hazelnut,brown sugar,juicy,lingering,smooth,nougat,sugar,passion fruit","Bourbon,Pache,Caturra"
+619,4183,Las Margaritas Red Bourbon,Good Citizen,Cafe Granja La Esperanza,Washed,1710.0,,,"cocoa,blackberry,vanilla,tropical fruit",Red Bourbon
+620,4190,Guatemala Huehuetenango,Oren's,,Washed,1600.0,Guatemala,Americas,"green apple,apple,almond,chocolate,nutty,smooth,sweet,apricot,complex","Caturra,Catuai,Pache"
+621,4192,"Ubuto - Karuzi, Burundi",Mother Tongue Coffee,,Washed,1800.0,Burundi,Africa,"smooth,apple,complex,pie",Bourbon
+622,4199,Tres Dragones Natural,PT's Coffee Roasting Co.,Rigoberto Herrera,Natural,1700.0,Colombia,Americas,"lemon,strawberry,tamarind,licorice,tropical fruit,guava",Colombia
+623,4203,Toni,Portrait,,Washed,1500.0,,,"nutty,chocolate","Bourbon,Caturra"
+624,4204,Founders,Portrait,Buesaco Community,Washed,9999.0,Colombia,Americas,"fruity,smooth,soft,sweet,juicy",
+625,4214,Fazenda Vassour├úo,Irving Farm,Waldir Batista Borges ,Natural,1175.0,Brazil,Americas,"peanut,light,chocolate,candy,vanilla,sweet,roasted,cocoa,peanut butter","Yellow Catuai,Mundo Novo"
+626,4217,Daydream Decaf,Atomic,,EA Decaf,800.0,,,"molasses,chocolate,nutty,chemical,shortbread,lingering,plum","Bourbon,Mundo Novo"
+627,4220,Jaime Ponce,Passenger,Jaime Ponce,Washed,1450.0,Ecuador,Americas,"tea,bright,black tea,complex,lemon,meyer lemon",Mejorado
+628,4231,Arboretum,Small Planes,,Washed,9999.0,,,"apple,smooth,chocolate,green apple,nutty,balance,fruity,bright",Various
+629,4232,Gateway,Small Planes,,Washed,2000.0,,,"juicy,chocolate,smooth,roasted,cherry,milk,sugar,sweet","Yellow Caturra,Red Caturra,Typica"
+630,4233,Decaf Desvelado,Small Planes,,EA Decaf,1575.0,,,"sugar,juicy,caramel,soft,chocolate,spice,stone fruit,citrus","Tabi,Castillo,Caturra"
+631,4240,Brazil Fazenda Pantano,Anodyne Coffee Roasters,Wagner Ferrero,Natural,1200.0,Brazil,Americas,"smooth,vanilla,almond",Yellow Bourbon
+632,4249,Hell Yeah!,Drink Coffee Do Stuff,,Washed,1800.0,,,"sweet,juicy,cherry,lingering,chocolate,nutty,walnut,macadamia nut",
+633,4250,Party Wave,Drink Coffee Do Stuff,,Natural,1800.0,,,"chocolate,bright,peach,jasmine,syrup,syrup,raspberry",Heirlooms
+634,4251,Bark At The Moon,Drink Coffee Do Stuff,,Washed,1200.0,,,"vanilla,toffee,chocolate,caramel,sweet,silky,dark chocolate,smooth",
+635,4252,Tips Up Tahoe French Roast,Drink Coffee Do Stuff,,Washed,1200.0,,,"vanilla,sweet",
+636,4253,Hot Shot Espresso,Drink Coffee Do Stuff,,Washed,1800.0,,,"milk,citrus",
+637,4256,Peru Rutas Del Inca,Drink Coffee Do Stuff,,Washed,2350.0,Peru,Americas,"dried fruit,roasted,sugar,buttery,sweet,complex,nutty,milk,milk chocolate,chocolate,brown sugar",
+638,4258,Umoja,Joe Coffee,Multiple,Washed,1740.0,Congo,Africa,"hibiscus,tropical fruit,pomegranate,raisin,golden raisin,molasses,tangerine,bright,round,floral",Bourbon
+639,4260,Ecuador Rancho Carmen,City of Saints,Asociacion Agropecuaria Artesanal de Productores Organicos Cuenca del Rio Mayo,Washed,1650.0,Ecuador,Americas,"sweet,vanilla,creamy,lemonade,bright,fermented,juicy","Caturra,Typica Mejorado,Criollo,Bourbon"
+640,4261,Brazil Lagoa Farm,Maquina,Niwaldo Antonio Rodrigues,Natural,1000.0,Brazil,Americas,"candy,cherry,sweet",Red Catuai
+641,4264,Loma La Gloria,Steady State,Anny Ruth,Natural,1700.0,,,"brown sugar,honey,herb,orange,blood orange,bright,sugar","Pacamara,Orange Bourbon"
+642,4265,Adanech,Steady State,,Natural,1900.0,,,"berry,stone fruit,round,apple,pie,chocolate,blueberry",Heirlooms
+643,4268,Agricola,Steady State,Gonzalo and Yrma Palenzuela,Natural,1750.0,Panama,Americas,"juicy,floral,melon,soft,delicate,citrus,clean","Geisha,Pacas,Castillo"
+644,4270,Aim High,Good Citizen,,Washed,1100.0,,,"candy,nutty,bright,sweet","Yellow Catuai,Caturra"
+645,4272,Burundi Nemba Natural,Red Rooster,Nemba Washing Station,Natural,9999.0,Burundi,Africa,"apple,spice,raisin",Red Bourbon
+646,4275,Peru El Pajurillo,Red Rooster,Fidel Huancas Chinchay,Washed,1900.0,Peru,Americas,"brown sugar,bright,tomato,apple,sweet,fruity,sugar,almond,strawberry,nectarine,cherry","Yellow Caturra,Yellow Bourbon,Red Bourbon"
+647,4277,Kenya - Ngugu-ini,Panther,Kibirigwi Cooperative Society,Washed,1660.0,Kenya,Africa,"lasting,clean,citrus,grapefruit,sweet,jasmine",Bourbon
+648,4279,High Walk,Congregation,,Washed,9999.0,,,"citrus,walnut,sugar,crisp,milk,soft,brown sugar,clean","Caturra,Castillo,Colombia"
+649,4280,Gallop,Congregation,,Washed,9999.0,,,"black cherry,bright,tropical fruit,cherry,cocoa,milk","Caturra,Mundo Novo"
+650,4282,EthiopiaΓÇöKochere,Congregation,,Washed,1900.0,Ethiopia,Africa,"brown sugar,stone fruit,juicy,sugar,sweet,peach,floral,citrus,malt",
+651,4287,Rumukia,Steady State,Multiple,Washed,1760.0,Kenya,Africa,"savory,bright","Batian,SL34,Ruiru 11,SL28"
+652,4289,Wate Gogugu,Broadsheet,Kadir Jabril,Washed,2140.0,Ethiopia,Africa,"strawberry,sweet,citrus,floral,peach,juicy,honeysuckle","Indigenous Landraces,Jarc Selections"
+653,4290,Ethiopia Tekamo Mekiso,Atomic,Tekamo Mekiso,Natural,1950.0,Ethiopia,Africa,"pineapple,creamy,soft,blackberry,bright,sweet,fruity",Heirlooms
+654,4297,Guatemala La Candelaria,Verve,The Zelaya Family,Washed,1500.0,Guatemala,Americas,"cantaloupe,maple syrup,juicy,complex,syrup,sweet,syrup,orange,brown sugar,almond,orange zest,sugar",
+655,4300,Campfire Blend,Caffe Vita,,Washed,1000.0,Blend,Blend,"chocolate,marshmallow,dark chocolate",
+656,4307,Colombia Las Montanas Decaf,Maquina,Multiple,EA Decaf,1350.0,Colombia,Americas,"juicy,orange,vanilla,complex,caramel,sweet","Typica,Bourbon,Caturra"
+657,4309,Fam├¡lia Peixoto,Peixoto,Jose Augusto Peixoto,Natural,1250.0,Brazil,Americas,"sweet,chocolate,berry,creamy,clean,citrus",Catuai
+658,4310,Peixoto Doce,Peixoto,Jose Augusto Peixoto,Natural,1250.0,Brazil,Americas,"caramel,cherry,chocolate,hazelnut,sweet",Catuai
+659,4311,Peixoto Honey,Peixoto,Jose Augusto Peixoto,Pulp Natural,1250.0,Brazil,Americas,"nutty,clean,honey,cherry,chocolate",Yellow Catuai
+660,4312,Frutas Blend,Peixoto,,Natural,1250.0,Blend,Blend,"juicy,nutty,chocolate,strawberry,jam,fruity,cocoa","Heirlooms,Yellow Catuai"
+661,4313,Citrico Blend,Peixoto,,Washed,1250.0,Blend,Blend,"cocoa,sweet,creamsicle,stone fruit","Caturra,Catuai"
+662,4314,Sugarcane Decaf,Peixoto,Ana Mustafa,EA Decaf,1650.0,,,"bright,clementine,citrus,nougat,green apple,molasses,caramel,balance,apple","Colombia,Castillo"
+663,4316,"Ethiopia, Worka Chelbessa, Yirgacheffe",Sight Glass,Worka Chelbessa,Washed,2050.0,Ethiopia,Africa,"juicy,floral,spice,peach",Heirlooms
+664,4317,Agaro Yukro #5 Washed,PT's Coffee Roasting Co.,Yukro Washing Station,Washed,2000.0,Ethiopia,Africa,"crisp,peach,sugar,black tea,grapefruit,tea,light,lemon,brown sugar,hazelnut,lemon zest",Heirlooms
+665,4319,Aristides Guarnizo-Rosado,Blueprint Coffee Roasters,Guarnizo brothers,Experimental,1800.0,,,"soil,grapefruit,blackberry,bright,tea","Pink Bourbon,Colombia,Castillo"
+666,4341,Ethiopia Nano Genji,ReAnimator Coffee Roasters,,Washed,9999.0,Ethiopia,Africa,"nectarine,floral,jasmine,lasting,clean,grapefruit,candied,bright",
+667,4343,Simple Summer,Atomic,,Washed,1500.0,,,"berry,fruity,bright",Heirlooms
+668,4348,Lote Valeria Washed,PT's Coffee Roasting Co.,The Portilla Family,Washed,1850.0,Colombia,Americas,"juicy,peach,sweet,lime,nougat,candy,grapefruit,soft",Caturra
+669,4349,Guatemala Huehuetenango Gilberto Mendez,Drink Coffee Do Stuff,Gilberto Mendez,Washed,1675.0,Guatemala,Americas,"nutty,clementine,praline,nectarine,spice,pecan,juicy,marzipan,apple,almond","Caturra,Bourbon"
+670,4352,Summer Blend,ReAnimator Coffee Roasters,,Washed,9999.0,Blend,Blend,"roasted,bright,nutty,cherry,almond",
+671,4354,Organic Ethiopia Idido Wegida Natural Process,Wonderstate,Wegida Washing Station,Natural,2150.0,Ethiopia,Africa,"flower,fruity,blueberry","Ethiopia Landraces,Heirlooms"
+672,4355,El Borbollon El Salvador,Sterling Coffee Roasters,Alvarez,Washed,1450.0,El Salvador,Americas,"lingering,butterscotch,cherry,creamy,balance,caramel,dried fruit",Red Bourbon
+673,4356,Kiganda Murambi Burundi,Sterling Coffee Roasters,,Washed,2000.0,Burundi,Africa,"balance,cream,currant,apple,dried fruit,graham cracker,buttery,marshmallow,cream,honey,vanilla",Bourbon
+674,4359,Summer Solstice,Mad Cap,,Washed,1900.0,,,"tea,creamy,sweet,tropical fruit,delicate","Jarc Selections,Ethiopia Landraces"
+675,4360,Ethiopia Guji Banti Nenga,Drink Coffee Do Stuff,Banti Nenga,Natural,2100.0,Ethiopia,Africa,"blueberry,cream,bright,floral,strawberry,cream,tropical fruit",Heirlooms
+676,4365,Tano Batak,Novo,,Wet-hulled,1500.0,,,"green apple,sugar,light,roasted,cherry,apple,fermented,pea,bright","Typica,Ateng"
+677,4366,Power & Glory Blend,Feast,,Washed,9999.0,Blend,Blend,"hazelnut,sweet,round,dark chocolate,chocolate,nectarine,citrus","Heirlooms,Bourbon,Caturra"
+678,4370,Organic Santa Theresa,Wonderstate,Pillimue Farmers Group,Washed,1925.0,Colombia,Americas,"complex,nutty,lingering,raspberry,honey",Caturra
+679,4371,Organic Ethiopia Chelbessa Danche,Wonderstate,Danche Washing Station,Washed,2100.0,Ethiopia,Africa,"peach,complex,berry,melon,rose,bright,black tea,delicate,tea","Indigenous Landraces,Jarc Selections"
+680,4372,Honduras Finca La Unica,Portrait,Leticia Lopez Hutchins,Natural,1400.0,Honduras,Americas,"blackberry,cocoa,tropical fruit,bright",Parainema
+681,4373,Todos Santos: Single Farmer Lot,Broadsheet,Todos Santos Community Single Farmer,Washed,1800.0,Guatemala,Americas,"chocolate,cherry,sweet,plum,stone fruit",Bourbon
+682,4374,Bella Vista,Maquina,Multiple,Washed,1600.0,Mexico,Americas,"juicy,orange,sugar,brown sugar","Bourbon,Caturra,Catimor"
+683,4375,El Porvenir Tabi,Bird Rock,Didier Anacona ,Washed,1825.0,Colombia,Americas,"brown sugar,sugar,apple,tangerine,crisp,lingering,green apple",Tabi
+684,4376,Decaf,Bird Rock,,EA Decaf,9999.0,,,"walnut,creamy,plum",
+685,4378,La Muralla Pink Bourbon,Small Planes,"Diego Hoyos, Ilmer Gomez, Jose Lopez",Washed,1800.0,,,"brown sugar,lemonade,floral,juicy,sugar",Pink Bourbon
+686,4380,Gogugu,Small Planes,,Washed,2140.0,,,"honeysuckle,melon,citrus,clean,cherry,lemonade,complex,sweet,super","Jarc Selections,Regional Landraces"
+687,4381,Ethiopia - Honey Damo,Methodical,,Pulp Natural,2000.0,Ethiopia,Africa,"honey,stone fruit,cherry,bright","Mikicho,Setami"
+688,4384,Santa Maria,Steady State,The Alvarez family,Washed,1350.0,El Salvador,Americas,"orange,creamy,light,nutty,citrus","Red Bourbon,Pacas"
+689,4385,Peru El Pepino,Huckleberry,Florian Padilla,Washed,1810.0,Peru,Americas,"sweet,nutty,blackberry,lemon,complex,fruity","Pache,Catuai"
+690,4386,Fazenda Serra Do Bon├⌐,Panther,Matheus Sanglard,Natural,1200.0,Brazil,Americas,"sweet,lingering,cherry,graham cracker,chocolate,plum,smooth,milk chocolate,milk,nutty,creamy,hazelnut","Red Catuai,Yellow Catuai"
+691,4387,Kenya Nyeri Ichuga AA,Sterling Coffee Roasters,,Washed,1875.0,Kenya,Africa,"blackberry,candy,balance,cranberry,bright,lime","SL28,SL34"
+692,4388,Kateshi-Isanya Estates,Good Citizen,,Pulp Natural,1475.0,,,"lime,nutty,soil,smooth,cranberry,honey","Java,Catimor 129,Castillo"
+693,4389,Mexico Mayan Harvest,Atomic,,Washed,1584.0,Mexico,Americas,"chocolate,candied,lasting,balance,apple","Bourbon,Catimor,Caturra"
+694,4391,Guatemala El Injerto Red Cat,Equator,Arturo Aguirre,Washed,1700.0,Guatemala,Americas,"red grape,white grape,chocolate,grape,milk chocolate,milk,caramel,creamy,sweet,amaretto,cocoa,almond",Red Catuai
+695,4392,Cognition,Mad Cap,,Washed,9999.0,,,"smooth,chocolate,creamy,nutty,cherry,sweet",
+696,4393,Futura,Mad Cap,,Washed,9999.0,,,"sweet,apple,green apple,nutty,clean,floral",
+697,4394,Ember,Alma Coffee,Al Lopez,Washed,1000.0,,,"dried fruit,cake,chocolate,dark chocolate,berry,complex,roasted,marshmallow",Parainema
+698,4395,San Sebasti├ín,Alma Coffee,,Washed,1700.0,,,"lemongrass,lime,light,sugar,caramel,balance,floral,tea,brown sugar,bright,citrus,candy","Pacas,Catuai"
+699,4396,Slumber Decaf,Alma Coffee,,EA Decaf,1400.0,,,"nutty,smooth,roasted,dried fruit,light","Typica,Bourbon"
+700,4397,Organic Guatemala Concepcion,Wonderstate,CODECH Cooperative,Natural,1750.0,Guatemala,Americas,"sweet,juicy,lemon,grapefruit,bright,raspberry,honey","Catuai,Caturra,Bourbon,Typica"
+701,4398,Ethiopia Duromina,ReAnimator Coffee Roasters,,Washed,9999.0,Ethiopia,Africa,"melon,clean,honey,floral,citrus,lychee,light",
+702,4399,Peru Finca Vidurrizaga,ReAnimator Coffee Roasters,Jhonny and Bernard Vidurrizaga,Experimental,9999.0,Peru,Americas,"fruity,creamy,hazelnut,smooth","Catuai,Caturra"
+703,4400,Kenya Kiaguthu,Huckleberry,"Othaya Farmers Cooperative Society, Kiaguthu Factory",Washed,1900.0,Kenya,Africa,"roasted,bright,grapefruit,kiwi,juicy","SL34,SL28,Ruiru 11,Batian"
+704,4401,Brazil Sitio Canaa,City of Saints,Joao Hamilton,Natural,1250.0,Brazil,Americas,"apricot,creamy,roasted",Yellow Catuai
+705,4405,Tangwen Natural,Broadsheet,Multiple,Natural,1825.0,Uganda,Africa,"wine,blueberry,white wine","SL14,SL34,Bourbon"
+706,4406,Honduras La Leona,Verve,Edgardo Tinoco,Washed,1595.0,Honduras,Americas,"sugar,grape,juicy,apple,brown sugar,green grape,smooth",Pacas
+707,4407,Ethiopia Bishan Dimo,Verve,Bishan Dimo Washing Station,Washed,1950.0,Ethiopia,Africa,"flower,sweet,delicate,peach",Heirlooms
+708,4408,Adriana Gonzalez,Passenger,,Washed,1900.0,,,"apple,round,complex,fruity,vanilla,strawberry,green apple,date",Pink Bourbon
+709,4409,Yamir Anacona D¡az,Passenger,,Washed,1650.0,Colombia,Americas,"hibiscus,lime,bright","Pink Bourbon,Castillo,Colombia"
+710,4410,Jorge Hernandez,Passenger,,Washed,1770.0,,,"mango,tropical fruit,peach,lime","Castillo,Caturra,Colombia"
+711,4411,Mario Salazar Cabrera,Passenger,,Washed,1700.0,,,"cherry,lemon,nutty","Colombia,Caturra,Typica,Castillo"
+712,4412,Yukro,Mad Cap,,Washed,2000.0,,,"stone fruit,smooth,floral,peach,caramel,rose,clean,citrus",Ethiopia Landraces
+713,4413,Kenya Swara,Verve,,Washed,1700.0,Kenya,Africa,"grapefruit,clean,dried fruit,spice,juicy,mango","SL28,Ruiru 11,SL34"
+714,4414,Triunfo Verde,Blueprint Coffee Roasters,The Triunfo Verde Co-op,Washed,1350.0,Mexico,Americas,"lemonade,nutty,lasting,creamy","Typica,Caturra,Bourbon"
+715,4415,An Ocean Liturgy,Portrait,,Washed,1400.0,,,roasted,"Parainema,Castillo"
+716,4416,Ethiopia Raro Nansebo,Portrait,"Ture Waji, Eegata Alaka, and Fedhesa Wodessa",Natural,2100.0,Ethiopia,Africa,"cherry,cocoa,blueberry",Jarc Selections
+717,4417,Ethiopia Nano Genji,Temple,Kata Muduga Cooperative,Washed,2050.0,Ethiopia,Africa,"black tea,delicate,orange,citrus,floral,sweet,peach,crisp,kumquat,smooth,tea",Ethiopia Landraces
+718,4418,Guatemala Buena Vista SOE,Temple,David Solano,Natural,1750.0,Guatemala,Americas,"bright,sugar,cacao,fruity,apple,sweet,complex,milk,cherry,bittersweet cacao,dark chocolate,black cherry,chocolate,lingering,green apple,brown sugar","Red Caturra,Red Bourbon"
+719,4419,Guatemala Las Colinas,Temple,Las Colinas,Washed,1700.0,Guatemala,Americas,"delicate,toffee,nutty,round,creamy,lemon,buttery,floral,sweet,lemon zest,apple","Catuai,Sarchimor,Caturra,Pachesan Ramon,Bourbon"
+720,4421,Alexander Sabillon Parainema,Ritual,Alexander Sabillon ,Washed,9999.0,,,"brown sugar,sugar,juicy,bright",Parainema
+721,4422,El Alto White Honey,Ritual,Grace Calderon Jiminez ,Pulp Natural,9999.0,Costa Rica,Americas,"caramel,chocolate,honey",Caturra
+722,4423,Organic Yanatile,Ritual,"Marisa Conde Romero, Ermitao Huillca Quispe, and David Merma Macedo ",Washed,9999.0,Peru,Americas,"cherry,caramel,berry,soft,creamy,round,cola,sweet,honey,candy,citrus,clean","Bourbon,Caturra,Typica"
+723,4424,Huerta del Rio UNECAFE Lachao Decaf,PT's Coffee Roasting Co.,UNECAFE,EA Decaf,1800.0,Mexico,Americas,"silky,pecan,orange,roasted","Mundo Novo,Typica Pluma"
+724,4425,Finca La Esperanza,Sterling Coffee Roasters,,Washed,1650.0,,,"sweet,lingering,cream,cream",Bourbon
+725,4426,Ethiopia Yirgacheffe Aricha,Sterling Coffee Roasters,,Washed,1950.0,Ethiopia,Africa,"orange,super,black tea,tea,nectarine,lemonade,bright,honey,floral,sweet,peach,bergamot",Heirlooms
+726,4427,Decaf Ethiopia Masha Natural,Equator,Haile Gebreselassie,EA Decaf,1755.0,Ethiopia,Africa,"fruity,cocoa,nectarine,cherry,currant,milk,complex,peach",Ethiopia Landraces
+727,4428,Ayarza,Feast,"Lorenzo, Zapata, Aguirre, Najera, Mendez, Sandoval, Ortega, Martinez, and Barrera families.",Natural,1800.0,,,"chocolate,strawberry,cocoa,sweet,caramel,milk chocolate,milk","Bourbon,Caturra,Typica"
+728,4431,Canopy,Common Voice,,Washed,1500.0,,,"chocolate,complex,cherry,dark chocolate,cinnamon,spice,black cherry",
+729,4432,Compass,Common Voice,,Washed,1100.0,,,"roasted,candy,chocolate,tangerine,juicy,almond",
+730,4433,Agua,Common Voice,,Washed,9999.0,,,"lingering,light,balance,nutty,juicy,sweet,fruity,citrus",
+731,4434,Perennial Decaf,Common Voice,,EA Decaf,9999.0,,,"bright,green apple,cedar,sweet,apple,crisp",
+732,4435,Sunbeam,Common Voice,,Washed,9999.0,,,"almond,bright,chocolate,roasted",
+733,4436,Terra,Common Voice,,Washed,9999.0,,,"earthy,orange,milk",
+734,4437,Caplami,Novo,,Washed,1500.0,,,"peach,tobacco,earthy,floral",Java
+735,4439,Evin Moreno,Ritual,Evin Joel Moreno Reyes,Washed,9999.0,Honduras,Americas,"lingering,cherry,berry",Pacas
+736,4441,Ethiopia Chelbesa Natural,Huckleberry,Worka Chelbessa,Natural,2025.0,Ethiopia,Africa,"fruit punch,berry,fruity",Ethiopia Landraces
+737,4442,Guatemala Santa Barbara,ReAnimator Coffee Roasters,,Washed,9999.0,Guatemala,Americas,"chocolate,cherry",
+738,4443,Mexico Familia Garcia,ReAnimator Coffee Roasters,Garcia Lopez,Washed,9999.0,Mexico,Americas,"complex,apple,green apple,candy",
+739,4444,Costa Rica Solis y Cordero,Metric,,Pulp Natural,9999.0,Costa Rica,Americas,"soft,grapefruit,turbinado sugar,sugar,sweet,apricot,red grape,silky,grape,brown sugar",
+740,4445,Ethiopia Kochere,Alma Coffee,Cheffe Hilina Trading PLC,Washed,2000.0,Ethiopia,Africa,"orange,clean,green tea,floral,fruity,sweet,peach,tea,super,delicate,black tea,juicy,soft",Heirlooms
+741,4446,Honduras Finca El Roble,Anodyne Coffee Roasters,Adrian Castro,Washed,1675.0,Honduras,Americas,orange,"Caturra,Catuai"
+742,4447,Guatemala La Hermosa,Anodyne Coffee Roasters,Max Perez,Washed,2000.0,Guatemala,Americas,"chocolate,soil,candy,orange,creamy","Pache,Caturra,Bourbon,Typica"
+743,4448,Nyeri Mahiga,Greater Goods,Othaya Farmers Cooperative Society,Washed,1795.0,Kenya,Africa,"cocoa,stone fruit,lingering,tamarind,fermented,buttery","Batian,SL34,SL28,Ruiru 11"
+744,4449,Ethiopia - Nano Genji,Methodical,,Washed,2050.0,Ethiopia,Africa,"jasmine,tea",Ethiopia Landraces
+745,4450,Burundi - Ngogomo,Methodical,,Washed,1600.0,Burundi,Africa,"bright,lime,tea,black tea",Red Bourbon
+746,4451,"Layo Teraga - Guji, Ethiopia",Mother Tongue Coffee,Layo Teraga,Washed,2125.0,Ethiopia,Africa,"black tea,tea,floral,honeysuckle",Heirlooms
+747,4454,Mexico El Tigre,City of Saints,,Washed,1650.0,Mexico,Americas,"date,nectarine,super,fruity,juicy,tangerine","Marsellesa,Caturra,Typica,Bourbon"
+748,4455,Spotlight,Sight Glass,Multiple,Washed,1500.0,Blend,Blend,"toffee,chocolate,smooth,dark chocolate,bitter,roasted,vanilla","Peaberry,Castillo"
+749,4459,Ethiopia Aricha,Maquina,Multiple,Washed,1900.0,Ethiopia,Africa,"tea,floral,lemon,sweet",Heirlooms
